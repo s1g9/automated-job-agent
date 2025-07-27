@@ -1,0 +1,62 @@
+name: Daily Job Search
+
+on:
+  schedule:
+    # Runs at 9:00 AM IST (3:30 AM UTC) every day
+    - cron: '30 3 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  search-jobs:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run job search
+      env:
+        MIN_SALARY_LPA: 900000
+        EXPERIENCE_LEVEL: entry,fresher,0-1,0-2
+        JOB_TITLES: operations,operations coordinator,operations executive,operations associate,program coordinator,business operations,operations analyst
+        LOCATION: India
+        PREFERRED_LOCATIONS: gurugram,gurgaon,delhi,new delhi,noida,faridabad
+      run: |
+        python github_action_search.py
+    
+    - name: Commit results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add job_results/
+        git add job_history.json || true
+        git diff --staged --quiet || git commit -m "Daily job search results - $(date +'%Y-%m-%d')"
+        git push
+    
+    - name: Send email notification (optional)
+      if: success() && env.SEND_EMAIL == 'true'
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 587
+        username: ${{ secrets.EMAIL_USERNAME }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: Daily Job Search Results
+        to: shivaniarora885@gmail.com
+        from: GitHub Actions
+        html_body: |
+          <h2>Job Search Complete!</h2>
+          <p>Check the latest results in the repository's job_results folder.</p>
+          <p><a href="https://github.com/${{ github.repository }}/tree/main/job_results">View Results</a></p>
