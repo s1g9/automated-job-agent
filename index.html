@@ -127,34 +127,59 @@
         .auto-redirect {
             background: #fff3cd;
             border: 1px solid #ffeaa7;
-            padding: 15px;
+            padding: 20px;
             border-radius: 8px;
             margin-bottom: 20px;
             text-align: center;
         }
-    </style>
-    <script>
-        // Auto-redirect to latest report after 10 seconds
-        let countdown = 10;
-        function updateCountdown() {
-            const countdownElement = document.getElementById('countdown');
-            if (countdownElement) {
-                countdownElement.textContent = countdown;
-                if (countdown <= 0) {
-                    window.location.href = 'job_results/job_report_20250724_235518.html';
-                }
-                countdown--;
+        .control-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 15px;
+        }
+        .control-btn {
+            display: inline-block;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 25px;
+            font-size: 1em;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            min-width: 150px;
+        }
+        .control-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+        }
+        @media (max-width: 768px) {
+            .control-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+            .control-btn {
+                width: 90%;
+                margin: 5px 0;
             }
         }
-        
-        // Function to redirect to latest report immediately
+    </style>
+    <script>
+        // Function to redirect to latest report
         function redirectToLatest() {
-            window.location.href = 'job_results/job_report_20250724_235518.html';
+            window.location.href = 'job_results/job_report_20250727_131920.html';
         }
         
-        // Start countdown when page loads
-        window.onload = function() {
-            setInterval(updateCountdown, 1000);
+        // Function to trigger new job search (placeholder for future API integration)
+        function triggerJobSearch() {
+            alert('🔄 Job search triggered! This feature will be available when the system is deployed. For now, the daily automated search runs at 9 AM IST via GitHub Actions.');
+        }
+        
+        // Function to refresh page to check for latest results
+        function refreshForLatest() {
+            location.reload();
         }
     </script>
 </head>
@@ -165,21 +190,40 @@
     </div>
 
     <div class="auto-redirect">
-        <strong>🔄 Auto-redirecting to latest job report in <span id="countdown">10</span> seconds...</strong>
-        <br><br>
-        <button onclick="redirectToLatest()" class="view-latest-btn">View Latest Jobs Now 🚀</button>
+        <strong>🎯 Job Search Dashboard - Manual Control</strong>
+        <p style="margin: 10px 0; color: #666;">Choose your action below - no more automatic redirects</p>
+        
+        <div class="control-buttons">
+            <button onclick="redirectToLatest()" class="control-btn" style="background: linear-gradient(135deg, #28a745, #20c997); color: white;">
+                📊 View Latest Results
+            </button>
+            <button onclick="triggerJobSearch()" class="control-btn" style="background: linear-gradient(135deg, #ff6b6b, #ee5a24); color: white;">
+                🔄 Trigger New Search
+            </button>
+            <button onclick="refreshForLatest()" class="control-btn" style="background: linear-gradient(135deg, #54a0ff, #2e86de); color: white;">
+                🔃 Refresh Dashboard
+            </button>
+        </div>
     </div>
 
         <div class="latest-report">
-        <h2>📋 Latest Job Search Results</h2>
-        <p><strong>Last Updated:</strong> 07/24/2025 at 23:55</p>
-        <p><strong>Jobs Found:</strong> 8 matching positions</p>
-        <a href="job_results/job_report_20250724_235518.html" class="view-latest-btn">
-            View Latest Jobs Report 📊
+        <h2>📋 Latest Job Search Results (JobSpy Enhanced)</h2>
+        <p><strong>Last Updated:</strong> July 27, 2025 at 13:19</p>
+        <p><strong>Jobs Found:</strong> 36 matching positions</p>
+        <p><strong>Platforms:</strong> LinkedIn, Indeed, Naukri, Glassdoor</p>
+        <p><strong>Enhancement:</strong> 🚀 4.5x improvement with professional JobSpy library</p>
+        <a href="job_results/job_report_20250727_131920.html" class="view-latest-btn">
+            View Enhanced Jobs Report 📊
         </a>
     </div>
 
     <div class="reports-grid">
+        <div class="report-card">
+            <div class="report-date">📅 July 27, 2025 - 1:19 PM (Latest - JobSpy Enhanced)</div>
+            <div class="report-stats">🚀 36 new jobs found | 🏢 Pinkerton, Anand Rathi, Dewii | 📍 Gurugram/NCR | ⭐ Professional Quality</div>
+            <a href="job_results/job_report_20250727_131920.html" class="view-report-btn">View Report</a>
+        </div>
+        
         <div class="report-card">
             <div class="report-date">📅 July 24, 2025 - 11:55 PM</div>
             <div class="report-stats">✅ 8 new jobs found | 🏢 Major companies | 📍 Gurugram/NCR</div>
