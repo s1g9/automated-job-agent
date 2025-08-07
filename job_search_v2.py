@@ -4,6 +4,7 @@ from typing import List, Dict, Optional
 from datetime import datetime
 import re
 import os
+from indeed_scraper import IndeedScraper
 
 class JobSearcherV2:
     """
@@ -15,8 +16,11 @@ class JobSearcherV2:
             "indeed", "linkedin", "glassdoor", "google", "zip_recruiter", "naukri"
         ]
         
-        # India-specific site configurations
-        self.india_sites = ["indeed", "linkedin", "naukri", "glassdoor"]
+        # India-specific site configurations - Indeed removed from JobSpy due to issues
+        self.india_sites = ["linkedin", "naukri", "glassdoor"]
+        
+        # Initialize Indeed scraper separately
+        self.indeed_scraper = IndeedScraper()
         
     def search_jobs(self, 
                    search_terms: List[str],
@@ -265,7 +269,10 @@ class JobSearcherV2:
             "management trainee operations"
         ]
         
-        # Search for jobs
+        all_jobs = []
+        
+        # 1. Search using JobSpy (LinkedIn, Naukri, Glassdoor)
+        print("\n🔍 Searching with JobSpy (LinkedIn, Naukri, Glassdoor)...")
         jobs_df = self.search_jobs(
             search_terms=search_terms[:6],  # Limit to prevent timeout
             location="India",
@@ -273,16 +280,100 @@ class JobSearcherV2:
             hours_old=168  # Last 7 days
         )
         
-        if jobs_df.empty:
-            return []
+        if not jobs_df.empty:
+            # Apply filters
+            location_filtered = self.filter_by_location(jobs_df, preferred_locations)
+            experience_filtered = self.filter_by_experience(location_filtered, max_experience_years)
+            salary_filtered = self.filter_by_salary(experience_filtered, min_salary_lpa)
+            
+            # Convert to compatible format
+            jobspy_jobs = self.convert_to_job_dict_format(salary_filtered)
+            all_jobs.extend(jobspy_jobs)
+            print(f"✅ JobSpy found {len(jobspy_jobs)} matching jobs")
         
-        # Apply filters
-        location_filtered = self.filter_by_location(jobs_df, preferred_locations)
-        experience_filtered = self.filter_by_experience(location_filtered, max_experience_years)
-        salary_filtered = self.filter_by_salary(experience_filtered, min_salary_lpa)
+        # 2. Search using custom Indeed scraper
+        print("\n🔍 Searching with custom Indeed scraper...")
+        try:
+            indeed_jobs = self.indeed_scraper.search_jobs(
+                keywords=search_terms[:3],  # Limit for speed
+                locations=preferred_locations[:3],  # Top 3 locations
+                max_pages=2  # 2 pages per search
+            )
+            
+            # Filter for operations roles
+            indeed_ops_jobs = self.indeed_scraper.filter_operations_jobs(indeed_jobs)
+            
+            # Convert Indeed format to standard format
+            for job in indeed_ops_jobs:
+                standardized_job = {
+                    'title': job.get('title', ''),
+                    'company': job.get('company', ''),
+                    'location': job.get('location', ''),
+                    'salary': job.get('salary', 'Check job description'),
+                    'experience': 'Entry level',
+                    'url': job.get('url', ''),
+                    'source': 'Indeed',
+                    'description': job.get('description', ''),
+                    'job_type': 'Full-time',  # Default
+                    'scraped_date': job.get('scraped_date', datetime.now().isoformat()),
+                    'search_term': 'operations'
+                }
+                
+                # Basic salary filtering
+                if self._job_meets_salary_requirement(standardized_job, min_salary_lpa):
+                    all_jobs.append(standardized_job)
+            
+            print(f"✅ Indeed found {len([j for j in all_jobs if j['source'] == 'Indeed'])} matching jobs")
+            
+        except Exception as e:
+            print(f"❌ Indeed scraper error: {e}")
+            print("Continuing with results from other sources...")
         
-        # Convert to compatible format
-        final_jobs = self.convert_to_job_dict_format(salary_filtered)
+        # Remove duplicates based on title and company
+        unique_jobs = []
+        seen = set()
+        for job in all_jobs:
+            key = (job['title'].lower().strip(), job['company'].lower().strip())
+            if key not in seen:
+                seen.add(key)
+                unique_jobs.append(job)
         
-        print(f"\n🎯 Final results: {len(final_jobs)} jobs matching all criteria")
-        return final_jobs
+        print(f"\n🎯 Final results: {len(unique_jobs)} unique jobs matching all criteria")
+        return unique_jobs
+    
+    def _job_meets_salary_requirement(self, job: Dict, min_salary_lpa: int) -> bool:
+        """Check if a job meets the minimum salary requirement"""
+        salary_text = job.get('salary', '').lower()
+        
+        # If salary not specified, include for manual review
+        if not salary_text or salary_text == 'check job description' or 'not specified' in salary_text:
+            return True
+        
+        # Look for LPA mentions
+        lpa_patterns = [
+            r'(\d+(?:\.\d+)?)\s*(?:-\s*\d+(?:\.\d+)?)?\s*lpa',
+            r'(\d+(?:\.\d+)?)\s*(?:-\s*\d+(?:\.\d+)?)?\s*(?:lakh|lac)',
+            r'₹\s*(\d+(?:,\d+)*)\s*(?:-\s*\d+(?:,\d+)*)?\s*(?:lakh|lac)'
+        ]
+        
+        for pattern in lpa_patterns:
+            matches = re.findall(pattern, salary_text)
+            if matches:
+                try:
+                    salary_value = float(matches[0].replace(',', ''))
+                    return salary_value >= min_salary_lpa
+                except:
+                    continue
+        
+        # Check for annual amounts
+        annual_pattern = r'₹\s*(\d+(?:,\d+)*(?:\.\d+)?)\s*(?:-\s*\d+(?:,\d+)*(?:\.\d+)?)?\s*(?:per\s*)?(?:year|annual|p\.a\.)'
+        matches = re.findall(annual_pattern, salary_text)
+        if matches:
+            try:
+                annual_amount = float(matches[0].replace(',', ''))
+                return annual_amount >= (min_salary_lpa * 100000)
+            except:
+                pass
+        
+        # If we can't determine, include it for manual review
+        return True
