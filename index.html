@@ -172,9 +172,45 @@
             window.location.href = 'job_results/job_report_20250727_131920.html';
         }
         
-        // Function to trigger new job search (placeholder for future API integration)
-        function triggerJobSearch() {
-            alert('🔄 Job search triggered! This feature will be available when the system is deployed. For now, the daily automated search runs at 9 AM IST via GitHub Actions.');
+        // Function to trigger new job search via public webhook
+        async function triggerJobSearch() {
+            const button = event.target;
+            const originalText = button.innerHTML;
+            
+            try {
+                button.disabled = true;
+                button.innerHTML = '⏳ Triggering...';
+                
+                // Use a simple public token for basic authentication
+                const publicToken = 'job-search-2025'; // This can be public
+                
+                // Open GitHub Actions page to manually trigger with the token
+                const actionsUrl = `https://github.com/s1g9/automated-job-agent/actions/workflows/trigger-proxy.yml`;
+                
+                // Create a form to submit the trigger
+                const form = document.createElement('form');
+                form.method = 'GET';
+                form.action = actionsUrl;
+                form.target = '_blank';
+                
+                // Show instructions
+                alert(`🔧 Manual Trigger Instructions:\n\n1. A new tab will open with GitHub Actions\n2. Click "Run workflow"\n3. Enter this token: ${publicToken}\n4. Click "Run workflow" to start the job search\n\nThe search will complete in 5-10 minutes.`);
+                
+                // Open the GitHub Actions page
+                window.open(actionsUrl, '_blank');
+                
+                button.innerHTML = '✅ Opened Actions!';
+                setTimeout(() => {
+                    button.innerHTML = originalText;
+                    button.disabled = false;
+                }, 3000);
+                
+            } catch (error) {
+                console.error('Error:', error);
+                alert('❌ Failed to open GitHub Actions page. Please go to the repository manually.');
+                button.innerHTML = originalText;
+                button.disabled = false;
+            }
         }
         
         // Function to refresh page to check for latest results

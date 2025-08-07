@@ -5,6 +5,8 @@ on:
     # Runs at 9:00 AM IST (3:30 AM UTC) every day
     - cron: '30 3 * * *'
   workflow_dispatch: # Allow manual trigger
+  repository_dispatch: # Allow triggering via webhook
+    types: [trigger-job-search]
 
 jobs:
   search-jobs:

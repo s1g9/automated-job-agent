@@ -1,0 +1,32 @@
+name: Trigger Proxy
+
+on:
+  workflow_dispatch:
+    inputs:
+      trigger_token:
+        description: 'Simple token to authorize the trigger'
+        required: true
+        type: string
+
+jobs:
+  trigger-job-search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate trigger token
+        run: |
+          if [ "${{ github.event.inputs.trigger_token }}" != "${{ secrets.TRIGGER_TOKEN }}" ]; then
+            echo "Invalid trigger token"
+            exit 1
+          fi
+      
+      - name: Trigger job search workflow
+        uses: actions/github-script@v6
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'daily-job-search.yml',
+              ref: 'main'
+            })
+            console.log('Job search workflow triggered successfully!')
