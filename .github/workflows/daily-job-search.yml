@@ -8,6 +8,9 @@ on:
   repository_dispatch: # Allow triggering via webhook
     types: [trigger-job-search]
 
+permissions:
+  contents: write
+  
 jobs:
   search-jobs:
     runs-on: ubuntu-latest
@@ -35,6 +38,7 @@ jobs:
         JOB_TITLES: operations,operations coordinator,operations executive,operations associate,program coordinator,business operations,operations analyst
         LOCATION: India
         PREFERRED_LOCATIONS: gurugram,gurgaon,delhi,new delhi,noida,faridabad
+        SEND_EMAIL: false  # Set to true if you want email notifications
       run: |
         python github_action_search_v2.py
         python update_index.py
