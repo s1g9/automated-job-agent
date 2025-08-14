@@ -1,0 +1,58 @@
+{
+  "search_date": "2025-08-14T04:03:31.485163",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Operations Internship in Gurgaon",
+      "company": "Lumenci",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4284023265",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-14T04:02:43.978181",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Order To Cash Operations Associate",
+      "company": "Accenture",
+      "location": "Gurgaon, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-order-to-cash-operations-associate-accenture-solutions-pvt-ltd-gurugram-1-to-3-years-130825928874",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-14T04:02:55.290887",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Associate Process",
+      "company": "Mott MacDonald",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4233378264",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-14T04:03:02.422454",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Process Coordinator - Faridabad",
+      "company": "Employment Clarity",
+      "location": "Faridabad, India",
+      "salary": "₹175,000-₹325,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-faridabad-employment-clarity-faridabad-3-to-8-years-080825000079",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-14T04:03:02.422454",
+      "search_term": "process coordinator"
+    }
+  ]
+}
