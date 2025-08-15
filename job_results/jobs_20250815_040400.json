@@ -1,0 +1,84 @@
+{
+  "search_date": "2025-08-15T04:04:00.178994",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Operations Executive || JobHai (Info Edge) || Noida",
+      "company": "Info Edge",
+      "location": "Noida, India",
+      "salary": "₹175,000-₹200,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-executive-jobhai-info-edge-noida-info-edge-noida-0-to-2-years-080825029298",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-15T04:03:05.345799",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Urgent Hiring || Operation Executive || Gurgaon || WFO - 6 Days",
+      "company": "Rupyy (Car Dekho Group)",
+      "location": "Gurgaon, India",
+      "salary": "₹250,000-₹275,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-urgent-hiring-operation-executive-gurgaon-wfo-6-days-rupyy-car-dekho-group-gurugram-0-to-1-years-080825018272",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-15T04:03:05.345799",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "Housepital India",
+      "location": "Faridabad, India",
+      "salary": "₹200,000-₹300,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-executive-housepital-india-faridabad-0-to-3-years-080825018262",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-15T04:03:05.345799",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator - LDM",
+      "company": "NIIT Limited",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4281287526",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-15T04:03:12.329441",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Career Solutions",
+      "location": "Sonipat/Sonepat, Delhi, India",
+      "salary": "₹225,000-₹375,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-career-solutions-new-delhi-sonipat-3-to-8-years-140825033196",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-15T04:03:31.508391",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Quytech",
+      "location": "Gurgaon, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-quytech-gurugram-1-to-6-years-250225502766",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-15T04:03:31.508391",
+      "search_term": "process coordinator"
+    }
+  ]
+}
