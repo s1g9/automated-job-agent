@@ -1,0 +1,58 @@
+{
+  "search_date": "2025-08-17T04:06:37.071301",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Operations Executive, Seller Flex, External Fullfillment , External Fullfillment",
+      "company": "Amazon",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4219803749",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-17T04:05:41.499819",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Associate - Operations - Operations - CBS - FIN - Controlling-General Accounting - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4285728229",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-17T04:05:58.351736",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Order To Cash Operations Associate",
+      "company": "Accenture",
+      "location": "Gurgaon, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-order-to-cash-operations-associate-accenture-solutions-pvt-ltd-gurugram-1-to-3-years-140825938860",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-17T04:05:58.351736",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Process Coordinator - Faridabad",
+      "company": "Employment Clarity",
+      "location": "Faridabad, India",
+      "salary": "₹175,000-₹325,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-faridabad-employment-clarity-faridabad-3-to-8-years-080825000079",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-17T04:06:05.002565",
+      "search_term": "process coordinator"
+    }
+  ]
+}
