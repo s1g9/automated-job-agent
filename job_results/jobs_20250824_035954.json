@@ -1,0 +1,71 @@
+{
+  "search_date": "2025-08-24T03:59:54.708122",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operations Coordinator",
+      "company": "Anand Rathi Wealth Limited",
+      "location": "Ahmedabad, Noida, India",
+      "salary": "₹200,000-₹375,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-coordinator-anand-rathi-wealth-limited-noida-ahmedabad-1-to-3-years-240725024817",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-24T03:58:52.950814",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "Paloaltosoft",
+      "location": "Gurgaon, India",
+      "salary": "₹200,000-₹300,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-executive-paloaltosoft-gurugram-0-to-1-years-190825029230",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-24T03:58:59.151690",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operations Executive || JobHai (Info Edge) || Noida",
+      "company": "Info Edge",
+      "location": "Noida, India",
+      "salary": "₹175,000-₹200,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-executive-jobhai-info-edge-noida-info-edge-noida-0-to-2-years-080825029298",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-24T03:58:59.151690",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Career Solutions",
+      "location": "Sonipat/Sonepat, Delhi, India",
+      "salary": "₹225,000-₹375,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-career-solutions-new-delhi-sonipat-3-to-8-years-140825033196",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-24T03:59:21.834300",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Quytech",
+      "location": "Gurgaon, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-quytech-gurugram-1-to-6-years-250225502766",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-08-24T03:59:21.834300",
+      "search_term": "process coordinator"
+    }
+  ]
+}
