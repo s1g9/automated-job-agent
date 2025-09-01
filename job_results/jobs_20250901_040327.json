@@ -1,0 +1,71 @@
+{
+  "search_date": "2025-09-01T04:03:27.964546",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Associate Operations Coordinator",
+      "company": "Brightroute Consulting Llp",
+      "location": "Noida, India",
+      "salary": "₹250,000-₹350,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-associate-operations-coordinator-brightroute-consulting-llp-noida-1-to-3-years-210825028712",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-01T04:02:23.212477",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive Operations",
+      "company": "American Express",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4292398599",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-01T04:02:30.871467",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operations Executive, Seller Flex, External Fullfillment , External Fullfillment",
+      "company": "Amazon",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4228039906",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-01T04:02:30.871467",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "Thoughtsol Infotech",
+      "location": "Delhi NCR, Noida, India",
+      "salary": "₹200,000-₹275,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-executive-thoughtsol-infotech-noida-delhi-ncr-0-to-1-years-280825919232",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-01T04:02:30.871467",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "OOMS INDIA",
+      "location": "Gurgaon, India",
+      "salary": "₹200,000-₹300,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-ooms-india-gurugram-0-to-3-years-190825016927",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-01T04:02:52.936509",
+      "search_term": "process coordinator"
+    }
+  ]
+}
