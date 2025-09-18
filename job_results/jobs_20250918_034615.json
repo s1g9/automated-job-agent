@@ -1,0 +1,32 @@
+{
+  "search_date": "2025-09-18T03:46:15.766104",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Operation Executive",
+      "company": "Thyrocare Technologies Ltd.",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4300402936",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-18T03:45:16.000878",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Process Excellence - SCM || Pharma",
+      "company": "Naari Pharma Pvt Ltd.",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4299398383",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-18T03:45:42.980467",
+      "search_term": "process coordinator"
+    }
+  ]
+}
