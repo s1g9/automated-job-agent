@@ -1,0 +1,32 @@
+{
+  "search_date": "2025-09-19T03:46:34.779992",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Executive - Operations - Operations - CBS - LG - Legal - New Delhi",
+      "company": "EY",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4301692390",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-19T03:45:36.059600",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "gudz",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4292146956",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-19T03:45:36.059600",
+      "search_term": "operations executive"
+    }
+  ]
+}
