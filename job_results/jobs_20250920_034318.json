@@ -1,0 +1,58 @@
+{
+  "search_date": "2025-09-20T03:43:18.964657",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "People Coordinator",
+      "company": "noon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4300865911",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-20T03:42:18.402462",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - Operations - Operations - CBS - LG - Legal/General Counsel's Office (GCO) - New Delhi",
+      "company": "EY",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4302174496",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-20T03:42:24.344396",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Administrator",
+      "company": "Rockwell Automation",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4302292481",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-20T03:42:31.749088",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "EMB Global",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4300422784",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-20T03:42:31.749088",
+      "search_term": "program coordinator"
+    }
+  ]
+}
