@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-09-21T03:50:06.117725",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operation Executive",
+      "company": "Thyrocare Technologies Ltd.",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4300402936",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-21T03:49:04.585081",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator, India",
+      "company": "Grok Global Services",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4301683706",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-21T03:49:12.024184",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Coordinator 1",
+      "company": "IQVIA",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4303518349",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-21T03:49:12.024184",
+      "search_term": "program coordinator"
+    }
+  ]
+}
