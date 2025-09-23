@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-09-23T03:45:37.143499",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Batch/Operations Associate: Noida",
+      "company": "PW (PhysicsWallah)",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4304140854",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-23T03:44:27.984089",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - Operations - Operations - CBS - LG - Legal/General Counsel's Office (GCO) - New Delhi",
+      "company": "EY",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4302174496",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-23T03:44:34.800932",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Assistant Vice President, HRO Operations",
+      "company": "Genpact",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4303967674",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-23T03:44:34.800932",
+      "search_term": "operations executive"
+    }
+  ]
+}
