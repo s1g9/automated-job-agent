@@ -1,0 +1,58 @@
+{
+  "search_date": "2025-09-24T03:46:13.923166",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Supply Chain and Logistics Coordinator",
+      "company": "Aoki Mobility Pvt. Ltd.",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4303879037",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-24T03:45:12.734623",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operation Executive",
+      "company": "SmartQ",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4304916146",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-24T03:45:19.423653",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator 1",
+      "company": "IQVIA",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4303518349",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-24T03:45:27.334193",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Halliburton",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4304040055",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-24T03:45:27.334193",
+      "search_term": "program coordinator"
+    }
+  ]
+}
