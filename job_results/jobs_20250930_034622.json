@@ -1,0 +1,58 @@
+{
+  "search_date": "2025-09-30T03:46:22.913609",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Associate - Supply Chain Operations",
+      "company": "Nutrabay",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4305486091",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-30T03:45:21.714144",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operation Executive",
+      "company": "SmartQ",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4304916146",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-30T03:45:26.982507",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Assistant - BCN Academy",
+      "company": "Bain & Company",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4307100605",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-30T03:45:31.341627",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Halliburton",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4304040055",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-09-30T03:45:31.341627",
+      "search_term": "program coordinator"
+    }
+  ]
+}
