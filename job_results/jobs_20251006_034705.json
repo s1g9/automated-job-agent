@@ -1,0 +1,32 @@
+{
+  "search_date": "2025-10-06T03:47:05.578649",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Operations Executive in Noida",
+      "company": "Blue Turtle Entertainment",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4309826532",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-06T03:46:11.886941",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "noon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4308411330",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-06T03:46:21.718000",
+      "search_term": "business operations"
+    }
+  ]
+}
