@@ -1,0 +1,71 @@
+{
+  "search_date": "2025-10-08T03:45:27.390607",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Associate, Operations/Production",
+      "company": "Whirlpool Corporation",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4298712817",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-08T03:44:28.496595",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive Operations",
+      "company": "Magic Billion",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4308895711",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-08T03:44:32.657732",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Office Administrator",
+      "company": "SAS",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311369517",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-08T03:44:37.714549",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate - Operations - Operations - CBS - FIN - Controlling-General Accounting - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4289447495",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-08T03:44:49.323630",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Process Associate",
+      "company": "TrueBlue Inc.",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4307651429",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-08T03:44:57.198826",
+      "search_term": "process coordinator"
+    }
+  ]
+}
