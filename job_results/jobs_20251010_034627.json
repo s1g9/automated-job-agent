@@ -1,0 +1,58 @@
+{
+  "search_date": "2025-10-10T03:46:27.504633",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Executive - Operations - Operations - CBS - LG - Legal/General Counsel's Office (GCO) - New Delhi",
+      "company": "EY",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4302174496",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-10T03:45:31.693500",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "IASS-Associate hiring",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4309756384",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-10T03:45:35.929522",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "NIIT Limited",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311868901",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-10T03:45:35.929522",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Intern -Talent Acquisition",
+      "company": "Air India SATS Airport Services Private Limited (AISATS)",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4308558194",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-10T03:45:40.633702",
+      "search_term": "business operations"
+    }
+  ]
+}
