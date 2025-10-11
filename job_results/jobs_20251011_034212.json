@@ -1,0 +1,58 @@
+{
+  "search_date": "2025-10-11T03:42:12.222526",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Executive Operations",
+      "company": "Magic Billion",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4308895711",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-11T03:41:15.840603",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operation Executive",
+      "company": "SmartQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4312997576",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-11T03:41:15.840603",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Office Administrator",
+      "company": "SAS",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311369517",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-11T03:41:21.405861",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate - Operations - OPS - CBS - FIN - Markets - Finance - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311658734",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-11T03:41:33.107657",
+      "search_term": "operations associate"
+    }
+  ]
+}
