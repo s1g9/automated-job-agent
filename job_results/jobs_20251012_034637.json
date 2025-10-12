@@ -1,0 +1,32 @@
+{
+  "search_date": "2025-10-12T03:46:37.954421",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Executive - Operations - Operations - CBS - LG - Legal - New Delhi",
+      "company": "EY",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4301676711",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-12T03:45:43.849686",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Mace",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4310843918",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-12T03:45:49.641440",
+      "search_term": "program coordinator"
+    }
+  ]
+}
