@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-10-16T03:49:29.123781",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operations Associate",
+      "company": "PW (PhysicsWallah)",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4312994983",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-16T03:48:26.165736",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - Operations - Operations - CBS - LG - Legal/General Counsel's Office (GCO) - New Delhi",
+      "company": "EY",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4302174496",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-16T03:48:30.206469",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "NIIT Limited",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311868901",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-16T03:48:36.766497",
+      "search_term": "program coordinator"
+    }
+  ]
+}
