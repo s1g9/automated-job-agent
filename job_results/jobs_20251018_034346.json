@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-10-18T03:43:46.753895",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Executive-Operations",
+      "company": "American Express",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4316347665",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-18T03:42:50.552850",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Associate - Operations - Operations - CBS - FIN - Controlling-General Accounting - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4285727442",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-18T03:43:10.010844",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Operations Coordinator",
+      "company": "SS Innovations International, Inc.",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4315119671",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-18T03:43:14.083898",
+      "search_term": "process coordinator"
+    }
+  ]
+}
