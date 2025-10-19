@@ -1,0 +1,32 @@
+{
+  "search_date": "2025-10-19T03:56:33.097230",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Associate - L1",
+      "company": "Wipro",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4315553454",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-19T03:55:39.241589",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Admin Assistant",
+      "company": "BBC",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4313376505",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-19T03:55:39.241589",
+      "search_term": "program coordinator"
+    }
+  ]
+}
