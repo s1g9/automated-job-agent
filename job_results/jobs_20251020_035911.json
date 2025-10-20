@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-10-20T03:59:11.086155",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operations Associate – Dark Store Operations (Delhi & Gurgaon)",
+      "company": "snooplay.in",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4313051197",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-20T03:58:04.242020",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Administrative Assistant, Global Affairs - India",
+      "company": "Netflix",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4293116709",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-20T03:58:17.730871",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Operations Associate in Noida",
+      "company": "Astrotalk",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4314432649",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-20T03:58:38.399212",
+      "search_term": "process coordinator"
+    }
+  ]
+}
