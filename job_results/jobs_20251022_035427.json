@@ -1,0 +1,97 @@
+{
+  "search_date": "2025-10-22T03:54:27.164921",
+  "total_jobs": 7,
+  "jobs": [
+    {
+      "title": "Business Operations Associate",
+      "company": "NxtWave",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4316950001",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-22T03:53:06.354376",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Associate - L1",
+      "company": "Wipro",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4315553454",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-22T03:53:30.788410",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Assistant - BCN Academy",
+      "company": "Bain & Company",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4307100605",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-22T03:53:30.788410",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Coordinator - Gurugram",
+      "company": "Simpliwork",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4317581649",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-22T03:53:30.788410",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "International Growth Consultant",
+      "company": "Google",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4297822550",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-22T03:53:37.675474",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Associate - Operations - Operations - CBS - FIN - Global Internal Tax Group - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4287553364",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-22T03:53:43.557535",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Engineer-Process",
+      "company": "Jacobs",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4305564778",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-22T03:53:53.535436",
+      "search_term": "process coordinator"
+    }
+  ]
+}
