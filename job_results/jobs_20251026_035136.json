@@ -1,0 +1,32 @@
+{
+  "search_date": "2025-10-26T03:51:36.718717",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Associate, Operations/Production",
+      "company": "Whirlpool Corporation",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4298712817",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-26T03:50:26.744600",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - Operations - Operations - CBS - LG - Legal/General Counsel's Office (GCO) - New Delhi",
+      "company": "EY",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4316772376",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-26T03:50:31.953113",
+      "search_term": "operations executive"
+    }
+  ]
+}
