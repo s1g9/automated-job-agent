@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-10-27T04:02:50.377920",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operations Executive (0-1 Years)",
+      "company": "The Knot Worldwide",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4318756727",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-27T04:01:43.802251",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive (HR Operations) - Noida, India",
+      "company": "Flight Centre Travel Group",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4308679975",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-27T04:02:06.245856",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Associate - Operations - Operations - CBS - FIN - Controlling-General Accounting - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4289447495",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-10-27T04:02:12.264745",
+      "search_term": "operations associate"
+    }
+  ]
+}
