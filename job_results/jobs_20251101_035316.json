@@ -1,0 +1,71 @@
+{
+  "search_date": "2025-11-01T03:53:16.549055",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operations Associate – Gurugram (6 months- contractual)",
+      "company": "Flix",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4333318367",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-01T03:52:11.086556",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Egis",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4332481536",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-01T03:52:21.517560",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Office Administrator",
+      "company": "SAS",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311369517",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-01T03:52:21.517560",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Admin Assistant",
+      "company": "noon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4333323366",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-01T03:52:21.517560",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Airbnb",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4332456762",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-01T03:52:29.238765",
+      "search_term": "business operations"
+    }
+  ]
+}
