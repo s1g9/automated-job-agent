@@ -1,0 +1,71 @@
+{
+  "search_date": "2025-11-02T03:56:32.052664",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operation Executive",
+      "company": "SmartQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4332927021",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-02T03:55:31.347173",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Anusha Technovision Pvt. Ltd.",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4319938800",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-02T03:55:38.655180",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Assistant- Global Employer Services- Gurgaon",
+      "company": "BDO India",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4332917037",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-02T03:55:38.655180",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Executive - Customer Services & Logistics - East",
+      "company": "McCain Foods",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311516877",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-02T03:55:46.431333",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Product Analyst",
+      "company": "MakeMyTrip",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4319252077",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-02T03:55:46.431333",
+      "search_term": "business operations"
+    }
+  ]
+}
