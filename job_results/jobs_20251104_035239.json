@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-11-04T03:52:39.010406",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operation Executive",
+      "company": "SmartQ",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4332787771",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-04T03:51:47.256162",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Egis",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4332481536",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-04T03:51:54.316090",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Office Administrator",
+      "company": "SAS",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311369517",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-04T03:51:54.316090",
+      "search_term": "program coordinator"
+    }
+  ]
+}
