@@ -1,0 +1,32 @@
+{
+  "search_date": "2025-11-07T03:53:51.092690",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Associate - HR - Operations - CBS - TAL - Learning - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4320169360",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-07T03:52:51.224601",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "noon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4333973692",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-07T03:53:09.125528",
+      "search_term": "business operations"
+    }
+  ]
+}
