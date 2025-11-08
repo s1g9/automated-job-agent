@@ -1,0 +1,32 @@
+{
+  "search_date": "2025-11-08T03:48:07.910203",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Process Coordinator in Noida",
+      "company": "ANMOL INDUSTRIES LIMITED",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4334840757",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-08T03:47:39.532916",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Operations Associate",
+      "company": "Scoutit",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4321241658",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-08T03:47:39.532916",
+      "search_term": "process coordinator"
+    }
+  ]
+}
