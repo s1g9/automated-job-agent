@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-11-10T04:01:30.162508",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Associate - HR - Operations - CBS - TAL - Learning - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4320169360",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-10T04:00:15.697392",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Associate - Operations - Operations - CBS - FIN - Global Internal Tax Group - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4320219113",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-10T04:00:50.044443",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Associate - Operations - Operations - CBS - FIN - Controlling-General Accounting - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4320299123",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-10T04:00:50.044443",
+      "search_term": "operations associate"
+    }
+  ]
+}
