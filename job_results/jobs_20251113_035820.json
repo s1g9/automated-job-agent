@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-11-13T03:58:20.590626",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Sales Operations Executive",
+      "company": "PW (PhysicsWallah)",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4335523547",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-13T03:57:25.362327",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "HR Operations Executive (Internal Hiring & People Operations)",
+      "company": "Abhidi Solution",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4339711562",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-13T03:57:25.362327",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Executive Assistant Fresher",
+      "company": "Jupiter AI Labs ✔",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4335250299",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-13T03:57:32.886756",
+      "search_term": "program coordinator"
+    }
+  ]
+}
