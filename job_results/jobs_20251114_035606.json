@@ -1,0 +1,58 @@
+{
+  "search_date": "2025-11-14T03:56:06.691210",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "ITAM Operations Executive",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4321890286",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-14T03:55:09.193317",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Executive-Operations",
+      "company": "American Express",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4316347665",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-14T03:55:09.193317",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Seva Foundation",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4335990537",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-14T03:55:16.399984",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Operations Internship in Gurgaon",
+      "company": "Shiprocket",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4335598303",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-14T03:55:28.645366",
+      "search_term": "operations associate"
+    }
+  ]
+}
