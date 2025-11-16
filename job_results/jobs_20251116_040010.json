@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-11-16T04:00:10.022083",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Executive Assistant Operations",
+      "company": "Intertech Technologies Pvt. Ltd.",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4340626755",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-16T03:59:05.364206",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Sales Operations Executive",
+      "company": "PW (PhysicsWallah)",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4335523547",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-16T03:59:17.594262",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Executive Assistant Fresher",
+      "company": "Jupiter AI Labs ✔",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4335250299",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-16T03:59:21.821194",
+      "search_term": "program coordinator"
+    }
+  ]
+}
