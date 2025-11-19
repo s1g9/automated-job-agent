@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-11-19T03:55:23.999181",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operations Executive",
+      "company": "30 Sundays",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4336961440",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-19T03:54:25.751034",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Office Administrator",
+      "company": "SAS",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311369517",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-19T03:54:32.423237",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Executive - Customer Services & Logistics - East",
+      "company": "McCain Foods",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311516877",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-19T03:54:40.460932",
+      "search_term": "business operations"
+    }
+  ]
+}
