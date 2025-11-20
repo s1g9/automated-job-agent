@@ -1,0 +1,71 @@
+{
+  "search_date": "2025-11-20T03:53:46.218283",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operations Executive",
+      "company": "TrueSeed.in",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4321251598",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-20T03:52:48.386988",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive - Reservations",
+      "company": "30 Sundays",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4323163562",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-20T03:52:55.871533",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Associate Project Coordinator",
+      "company": "orangemantra",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4341139036",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-20T03:53:00.938021",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Seva Foundation",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4335990537",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-20T03:53:00.938021",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Sr Analyst/Analyst, Trust & Safety Operations",
+      "company": "Cint",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4336777513",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-20T03:53:13.429168",
+      "search_term": "operations associate"
+    }
+  ]
+}
