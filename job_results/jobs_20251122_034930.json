@@ -1,0 +1,32 @@
+{
+  "search_date": "2025-11-22T03:49:30.715550",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Office Administrator",
+      "company": "SAS",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311369517",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-22T03:48:28.736977",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Executive - Customer Services & Logistics - East",
+      "company": "McCain Foods",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4311516877",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-22T03:48:34.245637",
+      "search_term": "business operations"
+    }
+  ]
+}
