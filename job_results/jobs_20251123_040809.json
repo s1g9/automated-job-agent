@@ -1,0 +1,58 @@
+{
+  "search_date": "2025-11-23T04:08:09.178838",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Operation Associate",
+      "company": "Testbook",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4323558088",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-23T04:07:02.894477",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "TrueSeed.in",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4321251598",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-23T04:07:02.894477",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive - Reservations",
+      "company": "30 Sundays",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4323163562",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-23T04:07:08.892878",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Office Administrator Associate",
+      "company": "Qualcomm",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4323662543",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-23T04:07:14.493589",
+      "search_term": "program coordinator"
+    }
+  ]
+}
