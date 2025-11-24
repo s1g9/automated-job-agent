@@ -1,0 +1,71 @@
+{
+  "search_date": "2025-11-24T04:08:12.447239",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operations Support",
+      "company": "American Express",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4337215044",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-24T04:07:06.980635",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Logistics Coordinator",
+      "company": "IFF",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4336776105",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-24T04:07:06.980635",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "adidas",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4341841378",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-24T04:07:20.900263",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Mace",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4310843918",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-24T04:07:20.900263",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "IASS-Associate hiring",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4322887277",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-24T04:07:20.900263",
+      "search_term": "program coordinator"
+    }
+  ]
+}
