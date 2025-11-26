@@ -1,0 +1,71 @@
+{
+  "search_date": "2025-11-26T03:59:04.919280",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operation Associate",
+      "company": "Testbook",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4323558088",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-26T03:57:45.256138",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "RME Coordinator, RME coordinator",
+      "company": "Amazon",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4338423015",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-26T03:57:45.256138",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "TrueSeed.in",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4321251598",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-26T03:57:45.256138",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Associate – Gurugram (6 months- contractual)",
+      "company": "Flix",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4333318367",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-26T03:57:45.256138",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive ecommerce operation and development",
+      "company": "The Cinnamon Kitchen",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4323192946",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-11-26T03:57:56.585782",
+      "search_term": "operations executive"
+    }
+  ]
+}
