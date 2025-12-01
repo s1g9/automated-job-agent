@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-12-01T04:33:14.579573",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operations Executive",
+      "company": "30 Sundays",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4324571555",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-01T04:32:16.062474",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Associate - Operations - OPS - CBS - FIN - Markets - Finance - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4320269037",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-01T04:32:36.863082",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Process Improvement Analyst",
+      "company": "McCormick & Company",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4347383431",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-01T04:32:41.008399",
+      "search_term": "process coordinator"
+    }
+  ]
+}
