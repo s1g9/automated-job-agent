@@ -1,0 +1,45 @@
+{
+  "search_date": "2025-12-06T03:53:04.325518",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "Anusha Technovision Pvt. Ltd.",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4324957236",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-06T03:51:51.242543",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - Operations - Operations - CBS - LG - Legal - New Delhi",
+      "company": "EY",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4316761481",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-06T03:52:01.666597",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "Aristocrat",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4325640045",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-06T03:52:07.915702",
+      "search_term": "program coordinator"
+    }
+  ]
+}
