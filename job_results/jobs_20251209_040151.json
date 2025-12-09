@@ -1,0 +1,58 @@
+{
+  "search_date": "2025-12-09T04:01:51.300216",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Executive - Operations - Operations - CBS - LG - Legal - New Delhi",
+      "company": "EY",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4316756567",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-09T04:00:54.811930",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "SmartQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4325572395",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-09T04:00:54.811930",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operations Executive in Noida (Hybrid)",
+      "company": "Tripoclan",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4341007408",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-09T04:00:54.811930",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "Aristocrat",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4325640045",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-09T04:00:58.834206",
+      "search_term": "program coordinator"
+    }
+  ]
+}
