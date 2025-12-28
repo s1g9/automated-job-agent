@@ -1,0 +1,84 @@
+{
+  "search_date": "2025-12-28T04:29:36.698525",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Operations Coordinator",
+      "company": "Cashify",
+      "location": "Gurgaon, India",
+      "salary": "₹200,000-₹300,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-coordinator-cashify-gurugram-1-to-3-years-241225016898",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-28T04:28:31.338736",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Central Program Coordinator,",
+      "company": "General Energy Management Systems P",
+      "location": "Noida, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-central-program-coordinator-general-energy-management-systems-p-noida-3-to-7-years-150925502863",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-28T04:28:44.351425",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-28T04:28:49.135633",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Process Engineer",
+      "company": "People Prime Worldwide",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4329473383",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-28T04:29:07.369765",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Wow Events",
+      "location": "Gurgaon, India",
+      "salary": "₹100,000-₹200,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-wow-events-gurugram-1-to-3-years-271225011543",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-28T04:29:07.369765",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Quytech",
+      "location": "Gurgaon, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-quytech-gurugram-1-to-6-years-250225502766",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-28T04:29:07.369765",
+      "search_term": "process coordinator"
+    }
+  ]
+}
