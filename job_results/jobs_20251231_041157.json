@@ -1,0 +1,84 @@
+{
+  "search_date": "2025-12-31T04:11:57.717748",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Operations Coordinator",
+      "company": "Cashify",
+      "location": "Gurgaon, India",
+      "salary": "₹200,000-₹300,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-coordinator-cashify-gurugram-1-to-3-years-241225016898",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-31T04:10:54.676971",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "Go4explore",
+      "location": "Noida, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-executive-go4explore-community-noida-1-to-2-years-301225505452",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-31T04:11:00.896621",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Central Program Coordinator,",
+      "company": "General Energy Management Systems P",
+      "location": "Noida, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-central-program-coordinator-general-energy-management-systems-p-noida-3-to-7-years-150925502863",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-31T04:11:07.637964",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Operations Associate",
+      "company": "Nerdy Turtlez",
+      "location": "Noida(Sector-5 Noida), India",
+      "salary": "₹250,000-₹350,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-associate-nerdy-turtlez-noida-0-to-2-years-301225029196",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-31T04:11:17.818102",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Wow Events",
+      "location": "Gurgaon, India",
+      "salary": "₹100,000-₹200,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-wow-events-gurugram-1-to-3-years-271225011543",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-31T04:11:24.686316",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Quytech",
+      "location": "Gurgaon, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-quytech-gurugram-1-to-6-years-250225502766",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2025-12-31T04:11:24.686316",
+      "search_term": "process coordinator"
+    }
+  ]
+}
