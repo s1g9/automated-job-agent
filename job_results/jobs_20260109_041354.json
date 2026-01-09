@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-01-09T04:13:54.943536",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Operations Executive",
+      "company": "Infutive Technology",
+      "location": "Gurugram, India",
+      "salary": "₹150,000-₹225,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-executive-infutive-technology-gurugram-1-to-3-years-080126016975",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-01-09T04:12:58.839449",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Admin Coordinator",
+      "company": "JSW Sports Pvt Ltd",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4351184348",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-01-09T04:13:04.660582",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Intelligence",
+      "company": "MakeMyTrip",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4358974585",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-01-09T04:13:09.366069",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Business Operations & MIS Executive",
+      "company": "Zopper",
+      "location": "Noida, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-business-operations-mis-executive-zopper-noida-2-to-4-years-050126023080",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-01-09T04:13:09.366069",
+      "search_term": "business operations"
+    }
+  ]
+}
