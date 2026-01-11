@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-01-11T04:31:56.475303",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Operations Associate in Noida",
+      "company": "Bosscoder Academy",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4354588053",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-01-11T04:30:50.746682",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Coordinator - Hospital Operations",
+      "company": "Paras Healthcare",
+      "location": "Gurugram, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-coordinator-hospital-operations-paras-healthcare-gurugram-0-to-5-years-090126501443",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-01-11T04:30:50.746682",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "Snaphyre",
+      "location": "Noida, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operations-executive-snaphyre-noida-0-to-3-years-070126503211",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-01-11T04:30:58.556304",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operation Executive",
+      "company": "YES Germany",
+      "location": "Faridabad, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-operation-executive-yes-germany-faridabad-0-to-4-years-070126500402",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-01-11T04:30:58.556304",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Product Analyst",
+      "company": "airtel",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4351681850",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-01-11T04:31:10.001964",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Order To Cash Operations Associate",
+      "company": "Accenture",
+      "location": "Gurugram, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-order-to-cash-operations-associate-accenture-solutions-pvt-ltd-gurugram-1-to-3-years-070126928119",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-01-11T04:31:17.291260",
+      "search_term": "operations associate"
+    }
+  ]
+}
