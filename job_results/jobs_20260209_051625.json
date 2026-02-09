@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-02-09T05:16:25.230736",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "RME Coordinator",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4361035905",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-09T05:15:26.105799",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Tech @ Cloud Analogy",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4369638421",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-09T05:15:38.040460",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "Xpertdox",
+      "location": "Noida, India",
+      "salary": "₹600,000-₹1,000,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-program-coordinator-xpertdox-noida-3-to-5-years-160625020962",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-09T05:15:38.040460",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Operations-OPS-Staff",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4369104120",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-09T05:15:49.546344",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Order Processing Coordinator",
+      "company": "TD Synnex",
+      "location": "Mumbai, New Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-order-processing-coordinator-td-synnex-mumbai-new-delhi-chennai-bengaluru-1-to-3-years-250424501489",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-09T05:15:55.201297",
+      "search_term": "process coordinator"
+    }
+  ]
+}
