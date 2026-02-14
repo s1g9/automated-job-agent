@@ -113,7 +113,7 @@ jobs:
           gurgaon,
           noida,
           chennai
-        SEND_EMAIL: false  # Set to true if you want email notifications
+        SEND_EMAIL: true  # Set to true if you want email notifications
       run: |
         python github_action_search_v2.py
         python update_index.py
