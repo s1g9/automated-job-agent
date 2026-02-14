@@ -1,4 +1,4 @@
-name: Daily Job Search
+name: Daily Java Job Search
 
 on:
   schedule:
@@ -33,11 +33,86 @@ jobs:
     
     - name: Run job search
       env:
-        MIN_SALARY_LPA: 900000
-        EXPERIENCE_LEVEL: entry,fresher,0-1,0-2
-        JOB_TITLES: operations,operations coordinator,operations executive,operations associate,program coordinator,business operations,operations analyst
+        MIN_SALARY_LPA: 700000 
+        EXPERIENCE_LEVEL: fresher,entry,0-1,0-2,graduate
+        JOB_TITLES: >
+          java developer,
+          software engineer java,
+          spring boot developer,
+          full stack java,
+          backend developer java,
+          core java developer,
+          java intern,
+          java fresher,
+          java full stack developer,
+          java spring boot developer,
+          junior java developer,
+          associate software engineer java,
+          entry level java developer,
+          java application developer,
+          java backend engineer,
+          java microservices developer,
+          rest api developer java,
+          java programmer,
+          java software engineer,
+          java j2ee developer,
+          java spring mvc developer,
+          hibernate java developer,
+          java angular developer,
+          java react developer,
+          java full stack engineer,
+          backend engineer java,
+          server side java developer,
+          java api developer,
+          java web developer,
+          java enterprise developer,
+          core java programmer,
+          advanced java developer,
+          java trainee,
+          graduate java developer,
+          java developer trainee,
+          software development engineer java,
+          sde java,
+          application engineer java,
+          java cloud developer,
+          java aws developer,
+          java docker developer,
+          java kubernetes developer,
+          java kafka developer,
+          java rabbitmq developer,
+          java sql developer,
+          java postgresql developer,
+          java mongodb developer,
+          java testing developer,
+          java unit testing,
+          java tdd developer,
+          agile java developer,
+          scrum java developer,
+          java developer 0-1 years,
+          java developer 0-2 years,
+          java developer fresher 2026,
+          java developer 2026 batch,
+          java developer 2025 batch,
+          java developer immediate joiner,
+          java developer remote,
+          java developer work from home,
+          java developer hybrid,
+          java developer in hyderabad,
+          java developer in bangalore,
+          java developer in pune,
+          java developer in mumbai,
+          java developer in chennai,
+          java developer in gurgaon,
+          java developer in noida
         LOCATION: India
-        PREFERRED_LOCATIONS: gurugram,gurgaon,delhi,new delhi,noida,faridabad
+        PREFERRED_LOCATIONS: >
+          hyderabad,
+          bangalore,
+          pune,
+          mumbai,
+          gurgaon,
+          noida,
+          chennai
         SEND_EMAIL: false  # Set to true if you want email notifications
       run: |
         python github_action_search_v2.py
@@ -45,12 +120,12 @@ jobs:
     
     - name: Commit results
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "anjeshdash@gmail.com"
+        git config --local user.name "Anjesh Ranjan Dash"
         git add job_results/
         git add job_history.json || true
         git add index.html || true
-        git diff --staged --quiet || git commit -m "Daily job search results - $(date +'%Y-%m-%d')"
+        git diff --staged --quiet || git commit -m "Daily Java job search results - $(date +'%Y-%m-%d')"
         git push
     
     - name: Send email notification (optional)
@@ -61,10 +136,10 @@ jobs:
         server_port: 587
         username: ${{ secrets.EMAIL_USERNAME }}
         password: ${{ secrets.EMAIL_PASSWORD }}
-        subject: Daily Job Search Results
-        to: shivaniarora885@gmail.com
+        subject: Daily Java Job Search Results
+        to: anjeshdash@gmail.com
         from: GitHub Actions
         html_body: |
-          <h2>Job Search Complete!</h2>
+          <h2>Java Job Search Complete!</h2>
           <p>Check the latest results in the repository's job_results folder.</p>
           <p><a href="https://github.com/${{ github.repository }}/tree/main/job_results">View Results</a></p>
