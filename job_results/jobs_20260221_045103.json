@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-02-21T04:51:03.912278",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "HR Coordinator, APEC",
+      "company": "Marriott International",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4367352054",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-21T04:50:18.219935",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "Xpertdox",
+      "location": "Noida, India",
+      "salary": "₹600,000-₹1,000,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-program-coordinator-xpertdox-noida-3-to-5-years-160625020962",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-21T04:50:18.219935",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "VRM Associate- Business Operations",
+      "company": "Paytm",
+      "location": "Noida, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-vrm-associate-business-operations-one97-communications-limited-noida-1-to-6-years-110226915747",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-21T04:50:22.528305",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Order To Cash Operations Associate",
+      "company": "Accenture",
+      "location": "Noida, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-order-to-cash-operations-associate-accenture-solutions-pvt-ltd-noida-1-to-6-years-190226929948",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-21T04:50:30.278921",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Process and Standards Compliance Coordinator",
+      "company": "Anatomic Iron",
+      "location": "Noida, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-and-standards-compliance-coordinator-anatomic-iron-noida-3-to-6-years-170226028269",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-21T04:50:35.165574",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Order Processing Coordinator",
+      "company": "TD Synnex",
+      "location": "Mumbai, New Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-order-processing-coordinator-td-synnex-mumbai-new-delhi-chennai-bengaluru-1-to-3-years-250424501489",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-02-21T04:50:35.165574",
+      "search_term": "process coordinator"
+    }
+  ]
+}
