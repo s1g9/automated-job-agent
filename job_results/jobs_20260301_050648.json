@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-03-01T05:06:48.864028",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Operations Associate - India Remote",
+      "company": "Home Pick",
+      "location": "Bawana, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4375735103",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-01T05:05:40.795260",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Assistant Vice President - People Operations",
+      "company": "Raphe mPhibr",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4377112923",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-01T05:05:47.507730",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurugram, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-ef-operation-executive-amazon-development-centre-india-pvt-ltd-gurugram-0-to-5-years-240226500396",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-01T05:05:47.507730",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Business/ Product Analyst",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4375211166",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-01T05:05:59.945432",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-01T05:05:59.945432",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Career Solutions",
+      "location": "Noida, India",
+      "salary": "₹250,000-₹275,000 ",
+      "experience": "Entry level",
+      "url": "https://www.naukri.com/job-listings-process-coordinator-career-solutions-noida-2-to-7-years-250226034805",
+      "source": "Naukri",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-01T05:06:17.483655",
+      "search_term": "process coordinator"
+    }
+  ]
+}
