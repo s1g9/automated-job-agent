@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-03-05T04:58:50.197570",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Executive - Operations",
+      "company": "SmartQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4377200625",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-05T04:57:53.923952",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Trainee - Administrator",
+      "company": "Tech @ Cloud Analogy",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4380139945",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-05T04:58:00.994159",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Admin Assistant",
+      "company": "noon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4379748908",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-05T04:58:00.994159",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Holidays Supply",
+      "company": "MakeMyTrip",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4364907747",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-05T04:58:08.143701",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Sales Operations Analyst [12 months contract]",
+      "company": "LinkedIn",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4364600407",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-05T04:58:08.143701",
+      "search_term": "business operations"
+    }
+  ]
+}
