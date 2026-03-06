@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-03-06T04:55:33.308051",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Localisation Project Coordinator",
+      "company": "Magnon Group",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4378166734",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-06T04:54:40.130658",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Process Engineer - Relocate to Saudi Arabia, Permanent Expat Relocation Package",
+      "company": "aramco",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4378499763",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-06T04:54:59.444325",
+      "search_term": "process coordinator"
+    }
+  ]
+}
