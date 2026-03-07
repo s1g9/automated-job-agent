@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-03-07T04:45:04.486140",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operations Associate",
+      "company": "Alike",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4381006607",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-07T04:44:01.586261",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Inbound Operations Executive Warehouse (Third Party Payroll)",
+      "company": "PUMA Group",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4371050477",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-07T04:44:15.766434",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Operations Associate",
+      "company": "Scoutit",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4380692731",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-07T04:44:32.822783",
+      "search_term": "process coordinator"
+    }
+  ]
+}
