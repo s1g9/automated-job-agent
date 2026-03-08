@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-03-08T04:56:50.989977",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Admin Assistant",
+      "company": "noon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4379748908",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-08T04:55:57.071689",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Holidays Supply",
+      "company": "MakeMyTrip",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4364907747",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-08T04:56:02.974287",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Sales Operations Analyst [12 months contract]",
+      "company": "LinkedIn",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4364600407",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-08T04:56:02.974287",
+      "search_term": "business operations"
+    }
+  ]
+}
