@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-03-09T05:08:26.433936",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Executive - Operations (Business Analysis)",
+      "company": "TÜV SÜD",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4378918307",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-09T05:07:27.642059",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Localisation Project Coordinator",
+      "company": "Magnon Group",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4378166734",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-09T05:07:35.380125",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Process Engineer - Relocate to Saudi Arabia, Permanent Expat Relocation Package",
+      "company": "aramco",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4378499763",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-09T05:07:54.604965",
+      "search_term": "process coordinator"
+    }
+  ]
+}
