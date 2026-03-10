@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-03-10T04:55:37.653877",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Business Operations Associate",
+      "company": "Accredian",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4380329929",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-10T04:54:37.217966",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - Site Operations",
+      "company": "SmartQ",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4381821520",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-10T04:54:42.927366",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "BIG Language Solutions",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4381896215",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-10T04:54:49.018636",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Inbound Operations Executive Warehouse (Third Party Payroll)",
+      "company": "PUMA Group",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4371050477",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-10T04:54:56.116042",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Operations Analyst",
+      "company": "noon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4382949561",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-10T04:55:00.212636",
+      "search_term": "operations associate"
+    }
+  ]
+}
