@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-03-14T04:57:16.014899",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Administration",
+      "company": "Tata Consultancy Services",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4383136826",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-14T04:56:12.906970",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Project Support Coordinator",
+      "company": "Devyani International Limited",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4382291329",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-14T04:56:25.601658",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "HR Coordinator, APEC",
+      "company": "Marriott International",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4367352054",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-14T04:56:25.601658",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "LEARNING & TALENT DEVELOPMENT EXECUTIVE",
+      "company": "Air India SATS Airport Services Private Limited (AISATS)",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4384231257",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-14T04:56:31.098321",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Process Engineer",
+      "company": "People Prime Worldwide",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4384220488",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-14T04:56:42.835651",
+      "search_term": "process coordinator"
+    }
+  ]
+}
