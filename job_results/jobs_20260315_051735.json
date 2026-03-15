@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-03-15T05:17:35.386476",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Associate",
+      "company": "EXL",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4366758853",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-15T05:16:46.655493",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate - Operations - Operations - CBS - FIN - Controlling-General Accounting - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4373055332",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-15T05:16:59.933351",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Process Engineer - Process & Projects Engineering (API)",
+      "company": "SUN PHARMA",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4371945335",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-15T05:17:05.929938",
+      "search_term": "process coordinator"
+    }
+  ]
+}
