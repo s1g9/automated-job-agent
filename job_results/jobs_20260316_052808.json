@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-03-16T05:28:08.662570",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Operations Associate",
+      "company": "Alike",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4384125494",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-16T05:27:00.326192",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - Site Operations",
+      "company": "SmartQ",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4381821520",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-16T05:27:05.209980",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator Executive",
+      "company": "STEM",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4366378681",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-16T05:27:10.876878",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "BIG Language Solutions",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4381896215",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-16T05:27:10.876878",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-16T05:27:18.099789",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Operations Analyst",
+      "company": "noon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4382949561",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-16T05:27:25.073532",
+      "search_term": "operations associate"
+    }
+  ]
+}
