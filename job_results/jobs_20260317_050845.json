@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-03-17T05:08:45.346642",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4376517961",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-17T05:07:44.093618",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "HR Coordinator, APEC",
+      "company": "Marriott International",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4367352054",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-17T05:07:48.957392",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Administration",
+      "company": "Tata Consultancy Services",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4383136826",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-17T05:07:48.957392",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "LEARNING & TALENT DEVELOPMENT EXECUTIVE",
+      "company": "Air India SATS Airport Services Private Limited (AISATS)",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4384231257",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-17T05:07:54.208149",
+      "search_term": "business operations"
+    }
+  ]
+}
