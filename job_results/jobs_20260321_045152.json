@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-03-21T04:51:52.170361",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Operations Assistant",
+      "company": "benecargo",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4385206252",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-21T04:50:46.643563",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Associate in Noida",
+      "company": "Earnest Data Analytics",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4386079478",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-21T04:50:46.643563",
+      "search_term": "operations coordinator"
+    }
+  ]
+}
