@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-03-23T05:19:18.965343",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Vice President - CDD",
+      "company": "NAB",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4384476707",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-23T05:18:11.538746",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4376517961",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-23T05:18:11.538746",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Cargo Trainer & Admin",
+      "company": "Air India SATS Airport Services Private Limited (AISATS)",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4387939201",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-23T05:18:24.202401",
+      "search_term": "business operations"
+    }
+  ]
+}
