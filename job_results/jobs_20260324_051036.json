@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-03-24T05:10:36.995166",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Project Administrator",
+      "company": "Rockwell Automation",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4388799109",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-24T05:09:39.205838",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-24T05:09:45.879307",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Process Engineer - Fluid Catalytic Cracking (Relocation to Saudi Arabia is required)",
+      "company": "aramco",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4386833814",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-24T05:10:01.866293",
+      "search_term": "process coordinator"
+    }
+  ]
+}
