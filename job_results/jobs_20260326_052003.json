@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-03-26T05:20:03.444638",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Operations Assistant",
+      "company": "Warehouse By Mudita",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4388687842",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-26T05:19:03.563227",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "BIZBoost™ Inc. 🚀",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4388957872",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-26T05:19:08.144383",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Administrator",
+      "company": "The Economist",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4390046271",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-26T05:19:14.295635",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Executive Assistant & Operations Coordinator",
+      "company": "EnableMining",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4388902785",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-26T05:19:24.178669",
+      "search_term": "operations associate"
+    }
+  ]
+}
