@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-03-27T05:21:49.704812",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Operations Associate",
+      "company": "Virohan",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4389560018",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-27T05:20:44.098116",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "ADMIN ASSISTANT (New Delhi)",
+      "company": "QatarEnergy",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4388087143",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-27T05:20:53.666588",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-27T05:21:00.528858",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Cargo Trainer & Admin",
+      "company": "Air India SATS Airport Services Private Limited (AISATS)",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4387939201",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-27T05:21:00.528858",
+      "search_term": "business operations"
+    }
+  ]
+}
