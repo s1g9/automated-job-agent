@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-03-28T05:09:55.748752",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "Tech @ Cloud Analogy",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4389778721",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-28T05:08:54.869472",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Operations - CWIP",
+      "company": "airtel",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4391068706",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-28T05:09:07.562409",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Operation Associate",
+      "company": "Protein World",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4389516534",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-28T05:09:22.084454",
+      "search_term": "process coordinator"
+    }
+  ]
+}
