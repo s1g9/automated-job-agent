@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-03-30T05:37:08.904003",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "BIG Language Solutions",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4391687331",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-30T05:36:21.445401",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-30T05:36:26.042433",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Operations Associate",
+      "company": "Virohan",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4389560018",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-30T05:36:33.667737",
+      "search_term": "operations associate"
+    }
+  ]
+}
