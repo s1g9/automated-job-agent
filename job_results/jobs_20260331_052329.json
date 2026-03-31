@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-03-31T05:23:29.516259",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "NTT DATA North America",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4392992688",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-31T05:22:38.848792",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Operations - CWIP",
+      "company": "airtel",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4391068706",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-03-31T05:22:54.524441",
+      "search_term": "operations associate"
+    }
+  ]
+}
