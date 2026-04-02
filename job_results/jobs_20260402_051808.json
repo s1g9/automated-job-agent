@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-04-02T05:18:08.765239",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operations Executive",
+      "company": "HexaHealth",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4392908171",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-02T05:17:12.651903",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Sara Abode",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4391801581",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-02T05:17:18.113714",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "Operation Smile",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4392936764",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-02T05:17:18.113714",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Operations Analyst - GDS Back Office",
+      "company": "Navan",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4393535243",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-02T05:17:31.972515",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Operations Analysis Analyst",
+      "company": "S&P Global",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4392185614",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-02T05:17:31.972515",
+      "search_term": "operations associate"
+    }
+  ]
+}
