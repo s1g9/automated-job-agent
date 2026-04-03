@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-04-03T05:19:42.941844",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "BIG Language Solutions",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4391687331",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-03T05:18:52.475979",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate",
+      "company": "EXL",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4366758853",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-03T05:18:52.475979",
+      "search_term": "program coordinator"
+    }
+  ]
+}
