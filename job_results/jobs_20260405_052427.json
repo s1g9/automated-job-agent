@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-04-05T05:24:27.272824",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Operations Associate",
+      "company": "Altera Institute",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4397303773",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-05T05:23:27.973005",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "Operation Smile",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4392936764",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-05T05:23:42.457509",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "HR Coordinator, APEC",
+      "company": "Marriott International",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4367352054",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-05T05:23:42.457509",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Operations Internship in Mumbai, Noida, Bangalore",
+      "company": "NoBrokerHood",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4397392418",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-05T05:23:52.358846",
+      "search_term": "operations associate"
+    }
+  ]
+}
