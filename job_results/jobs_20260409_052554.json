@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-04-09T05:25:54.896560",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operations Executive",
+      "company": "Atlanta Systems Pvt. Ltd.",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4394781002",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-09T05:24:53.838298",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Administrative Business Partner, Knowledge and Information Partnerships",
+      "company": "Google",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4396321545",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-09T05:24:59.947709",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Warehouse By Mudita",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4394753767",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-09T05:25:21.419917",
+      "search_term": "process coordinator"
+    }
+  ]
+}
