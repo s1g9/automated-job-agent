@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-04-10T05:37:21.031081",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4376517961",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-10T05:36:24.047015",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Chief of Staff",
+      "company": "Pine Labs",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4398884445",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-10T05:36:24.047015",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "SITA",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4385031103",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-10T05:36:29.894692",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Administration",
+      "company": "Tata Consultancy Services",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4383136826",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-10T05:36:29.894692",
+      "search_term": "program coordinator"
+    }
+  ]
+}
