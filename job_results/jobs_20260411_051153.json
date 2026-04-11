@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-04-11T05:11:53.616537",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "WSP in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4398372882",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-11T05:10:59.543744",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "HR Coordinator, APEC",
+      "company": "Marriott International",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4367352054",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-11T05:10:59.543744",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Holidays Supply",
+      "company": "MakeMyTrip",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4364907747",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-11T05:11:05.367598",
+      "search_term": "business operations"
+    }
+  ]
+}
