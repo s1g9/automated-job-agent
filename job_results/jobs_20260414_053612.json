@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-04-14T05:36:12.260521",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "WSP in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4398372882",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-14T05:35:23.073669",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Holidays Supply",
+      "company": "MakeMyTrip",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4364907747",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-14T05:35:29.126506",
+      "search_term": "business operations"
+    }
+  ]
+}
