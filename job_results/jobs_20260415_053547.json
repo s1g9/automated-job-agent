@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-04-15T05:35:47.775981",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Administrative Business Partner, Knowledge and Information Partnerships",
+      "company": "Google",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4396321545",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-15T05:34:54.133811",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-15T05:35:01.719865",
+      "search_term": "business operations"
+    }
+  ]
+}
