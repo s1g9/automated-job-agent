@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-04-21T05:38:59.617677",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Project Coordinator (Freelancer)",
+      "company": "Deccan AI Experts",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4402230778",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-21T05:38:09.473289",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-21T05:38:14.438481",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Associate Operations",
+      "company": "Alight Solutions",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4399769395",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-21T05:38:25.281995",
+      "search_term": "operations associate"
+    }
+  ]
+}
