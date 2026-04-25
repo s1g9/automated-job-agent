@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-04-25T05:26:06.074670",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "SmartQ - Executive - Site Operations ( 0-0 yrs )",
+      "company": "ETCIO - Cloud Data Center",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4406809922",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-25T05:25:07.689523",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "Operation Smile",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4392936764",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-25T05:25:16.814376",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Analyst - Service Central Operations",
+      "company": "Paytm",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4404018733",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-25T05:25:24.625274",
+      "search_term": "business operations"
+    }
+  ]
+}
