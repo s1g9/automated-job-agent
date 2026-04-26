@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-04-26T05:55:35.754059",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Associate - Operations",
+      "company": "Alight Solutions",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4403233212",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-26T05:54:31.116691",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Cushman & Wakefield",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4404042196",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-26T05:54:44.529184",
+      "search_term": "program coordinator"
+    }
+  ]
+}
