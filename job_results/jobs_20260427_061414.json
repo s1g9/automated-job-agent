@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-04-27T06:14:14.130607",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Administrator",
+      "company": "The Economist",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4402887037",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-27T06:13:14.334697",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Operations Analyst",
+      "company": "Scoutit",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4405935246",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-27T06:13:33.199930",
+      "search_term": "operations associate"
+    }
+  ]
+}
