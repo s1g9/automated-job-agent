@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-04-28T06:17:31.582678",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4376517961",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-28T06:16:39.768229",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "Operation Smile",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4392936764",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-28T06:16:44.451932",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Honasa Consumer Ltd.",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4401922887",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-28T06:16:49.172610",
+      "search_term": "business operations"
+    }
+  ]
+}
