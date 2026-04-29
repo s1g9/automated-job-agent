@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-04-29T06:11:32.053380",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Officer, Site Administration",
+      "company": "Thiess",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4406517522",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-29T06:10:22.403721",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Coordinator",
+      "company": "Bain & Company",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4405531895",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-29T06:10:22.403721",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "WSP in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4398377745",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-29T06:10:41.011469",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Team Member -Employee Relations- Delhi",
+      "company": "Aditya Birla Capital",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4383831583",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-29T06:10:46.027486",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Associate - Operations - Operations - CBS - FIN - Controlling-General Accounting - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4373057133",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-29T06:10:53.142857",
+      "search_term": "operations associate"
+    }
+  ]
+}
