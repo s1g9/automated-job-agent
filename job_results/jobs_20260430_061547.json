@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-04-30T06:15:47.707028",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operations Support",
+      "company": "American Express",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4406989004",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-30T06:14:43.385879",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4376527586",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-30T06:14:50.151667",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Inbound Operations Executive Warehouse (Third Party Payroll)",
+      "company": "PUMA Group",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4371050477",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-30T06:15:06.462778",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Coordinator, HR Operations",
+      "company": "Bain & Company",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4407846945",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-30T06:15:12.343248",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Operations Analyst (Freelancer)",
+      "company": "Deccan AI Experts",
+      "location": "Gurgaon Rural, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4407879080",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-04-30T06:15:12.343248",
+      "search_term": "operations associate"
+    }
+  ]
+}
