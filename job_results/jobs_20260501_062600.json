@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-05-01T06:26:00.265735",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Administrative Business Partner, Knowledge and Information Partnerships",
+      "company": "Google",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4396321545",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-01T06:25:03.422060",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Process Engineer (Location-Oman)",
+      "company": "ACME Group",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4406063226",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-01T06:25:29.391943",
+      "search_term": "process coordinator"
+    }
+  ]
+}
