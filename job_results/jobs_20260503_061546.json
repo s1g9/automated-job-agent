@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-05-03T06:15:46.511321",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Operations Support",
+      "company": "American Express",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4407916345",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-03T06:14:43.311257",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4376527586",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-03T06:14:48.206349",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Inbound Operations Executive Warehouse (Third Party Payroll)",
+      "company": "PUMA Group",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4371050477",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-03T06:14:59.481984",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Coordinator, HR Operations",
+      "company": "Bain & Company",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4407846945",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-03T06:15:06.273234",
+      "search_term": "operations associate"
+    }
+  ]
+}
