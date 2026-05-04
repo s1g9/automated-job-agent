@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-05-04T06:25:51.961757",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Operations Executive - Supply Chain",
+      "company": "Trulo",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4408379733",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-04T06:24:58.258006",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Process Engineer (Location-Oman)",
+      "company": "ACME Group",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4406063226",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-04T06:25:22.583567",
+      "search_term": "process coordinator"
+    }
+  ]
+}
