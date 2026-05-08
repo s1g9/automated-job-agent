@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-05-08T05:38:52.298380",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Associate",
+      "company": "PwC India",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4410485387",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-08T05:37:47.869461",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Project Administrator",
+      "company": "Rockwell Automation",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4410997958",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-08T05:37:59.903190",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Intelligence",
+      "company": "MakeMyTrip",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4411640704",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-08T05:38:04.456131",
+      "search_term": "business operations"
+    }
+  ]
+}
