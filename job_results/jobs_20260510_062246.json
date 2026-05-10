@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-05-10T06:22:46.375612",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operations Support",
+      "company": "American Express",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4411019272",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-10T06:21:50.678409",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Coordinator –Programme Development and Management WWF-India",
+      "company": "TheCSRUniverse | The CSR Universe",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4408971346",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-10T06:22:00.098271",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Program Documentation and Learning Coordinator",
+      "company": "Khan Academy",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4408644658",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-10T06:22:00.098271",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Program Coordinator",
+      "company": "Operation Smile",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4392936764",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-10T06:22:00.098271",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Holidays Supply - Tours & Attractions",
+      "company": "MakeMyTrip",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4411494730",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-10T06:22:06.640264",
+      "search_term": "business operations"
+    }
+  ]
+}
