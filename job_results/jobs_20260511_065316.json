@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-05-11T06:53:16.981261",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Associate",
+      "company": "PwC India",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4410485387",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-11T06:52:18.812282",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - Operations - Operations - CBS - AWS - Facilities&Hospitality Svc - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4403084875",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-11T06:52:24.068467",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Administrator",
+      "company": "Rockwell Automation",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4410997958",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-11T06:52:29.945140",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Intelligence",
+      "company": "MakeMyTrip",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4411640704",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-11T06:52:34.908843",
+      "search_term": "business operations"
+    }
+  ]
+}
