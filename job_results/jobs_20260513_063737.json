@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-05-13T06:37:37.395086",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Operations Support",
+      "company": "American Express",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4411019272",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-13T06:36:35.635733",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Back Office Exceutive in Noida",
+      "company": "Arihant Publications India Limited",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4413768603",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-13T06:36:48.359336",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Holidays Supply - Tours & Attractions",
+      "company": "MakeMyTrip",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4411494730",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-13T06:36:54.413493",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Operations Excellence",
+      "company": "DFM Foods Limited",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4410138258",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-13T06:36:58.903205",
+      "search_term": "operations associate"
+    }
+  ]
+}
