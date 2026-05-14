@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-05-14T06:35:02.225387",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Associate",
+      "company": "PwC India",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4410485387",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-14T06:34:00.299957",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Vendor Operations Executive",
+      "company": "Shyft",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4413028741",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-14T06:34:05.998583",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Business Intelligence",
+      "company": "MakeMyTrip",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4411640704",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-14T06:34:19.753900",
+      "search_term": "business operations"
+    }
+  ]
+}
