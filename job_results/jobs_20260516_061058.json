@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-05-16T06:10:58.501346",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Back Office Exceutive in Noida",
+      "company": "Arihant Publications India Limited",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4413768603",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-16T06:10:05.034238",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Sales Team Member - OE (4 Wheeler)",
+      "company": "Exide Industries Limited",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4411171349",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-16T06:10:11.472380",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Operations Excellence",
+      "company": "DFM Foods Limited",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4410138258",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-16T06:10:18.934622",
+      "search_term": "operations associate"
+    }
+  ]
+}
