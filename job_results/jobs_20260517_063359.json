@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-05-17T06:33:59.944868",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Remarketing - Operations",
+      "company": "Ayvens",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4411519417",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-17T06:32:53.310221",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Advertising Operations Coordinator",
+      "company": "Sage",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4413117860",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-17T06:32:53.310221",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Fleet Coordinator - Delhi (Contractual)",
+      "company": "Flix",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4371601032",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-17T06:32:53.310221",
+      "search_term": "operations coordinator"
+    }
+  ]
+}
