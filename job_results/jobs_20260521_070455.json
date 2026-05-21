@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-05-21T07:04:55.606534",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Officer, Site Administration",
+      "company": "Thiess",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4406510967",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-21T07:03:51.878454",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Founder's Office",
+      "company": "iQuanta",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4416153171",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-21T07:04:06.244897",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Founders Office",
+      "company": "HouseEazy",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4416151019",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-21T07:04:06.244897",
+      "search_term": "business operations"
+    }
+  ]
+}
