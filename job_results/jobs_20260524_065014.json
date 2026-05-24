@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-05-24T06:50:14.944083",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Officer, Site Administration",
+      "company": "Thiess",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4406510967",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-24T06:49:07.867790",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Inbound Operations Executive Warehouse (Third Party Payroll)",
+      "company": "PUMA Group",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4371050477",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-24T06:49:27.615346",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Process Engineer - Process & Projects Engineering (API)",
+      "company": "SUN PHARMA",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4371945335",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-24T06:49:46.166966",
+      "search_term": "process coordinator"
+    }
+  ]
+}
