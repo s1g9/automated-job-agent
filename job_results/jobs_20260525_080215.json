@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-05-25T08:02:15.859307",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "SITA",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4385031103",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-25T08:01:19.369839",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Transport Executive",
+      "company": "Air India SATS Airport Services Private Limited (AISATS)",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4415766938",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-25T08:01:23.651506",
+      "search_term": "business operations"
+    }
+  ]
+}
