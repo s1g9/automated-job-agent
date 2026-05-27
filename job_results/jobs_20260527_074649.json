@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-05-27T07:46:49.074820",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Officer, Site Administration",
+      "company": "Thiess",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4406510967",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-27T07:45:47.756597",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Store Executive",
+      "company": "Air India SATS Airport Services Private Limited (AISATS)",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4418558908",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-27T07:46:04.587060",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-27T07:46:04.587060",
+      "search_term": "business operations"
+    }
+  ]
+}
