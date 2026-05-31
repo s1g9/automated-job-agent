@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-05-31T07:09:38.293244",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Account Coordinator India - Customer Fulfillment",
+      "company": "Crocs, Inc.",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4417661106",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-31T07:08:35.100931",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "Pasban - The Gatekeeper",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4419137067",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-31T07:08:35.100931",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Team Assistant",
+      "company": "Thales",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4411644960",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-31T07:08:47.042175",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Program Documentation and Learning Coordinator",
+      "company": "Khan Academy",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4408644658",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-05-31T07:08:47.042175",
+      "search_term": "program coordinator"
+    }
+  ]
+}
