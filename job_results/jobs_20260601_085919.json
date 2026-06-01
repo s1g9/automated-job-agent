@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-06-01T08:59:19.574608",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Executive - Operations - Operations - CBS - AWS - Facilities&Hospitality Svc - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4403084875",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-01T08:58:29.324570",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Administrative Business Partner, Knowledge and Information Partnerships",
+      "company": "Google",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4417861794",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-01T08:58:35.765195",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "AI & Data Analytics Executive",
+      "company": "Air India SATS Airport Services Private Limited (AISATS)",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4418585187",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-01T08:58:41.007305",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-01T08:58:41.007305",
+      "search_term": "business operations"
+    }
+  ]
+}
