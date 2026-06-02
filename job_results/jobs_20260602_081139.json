@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-06-02T08:11:39.270333",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Customer Success Coordinator",
+      "company": "British Council",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4417622699",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-02T08:10:45.227021",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate, Program Operations",
+      "company": "Room to Read India",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4423441379",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-02T08:10:45.227021",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "District Trainer",
+      "company": "adidas",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4417941386",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-02T08:10:51.142274",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Store Executive",
+      "company": "Air India SATS Airport Services Private Limited (AISATS)",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4418558908",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-02T08:10:51.142274",
+      "search_term": "business operations"
+    }
+  ]
+}
