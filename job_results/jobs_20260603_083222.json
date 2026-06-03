@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-06-03T08:32:22.901007",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Account Coordinator India - Customer Fulfillment",
+      "company": "Crocs, Inc.",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4417661106",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-03T08:31:18.773399",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Associate",
+      "company": "Voy",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4419229733",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-03T08:31:18.773399",
+      "search_term": "operations coordinator"
+    }
+  ]
+}
