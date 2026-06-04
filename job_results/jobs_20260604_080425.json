@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-06-04T08:04:25.476467",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Executive - Operations - Operations - CBS - AWS - Facilities&Hospitality Svc - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4403084875",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-04T08:03:28.975195",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "District Trainer",
+      "company": "adidas",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4412129530",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-04T08:03:39.087926",
+      "search_term": "business operations"
+    }
+  ]
+}
