@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-06-05T07:50:58.011516",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "Cushman & Wakefield",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4404042196",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-05T07:50:08.218967",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate",
+      "company": "Scoutit",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4424396087",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-05T07:50:08.218967",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Process Engineer",
+      "company": "KALPATARU PROJECTS INTERNATIONAL LIMITED",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4423344676",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-05T07:50:28.451227",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Process Engineer - Relocate to Saudi Arabia, Permanent Expat Relocation Package",
+      "company": "aramco",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4424394979",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-05T07:50:28.451227",
+      "search_term": "process coordinator"
+    }
+  ]
+}
