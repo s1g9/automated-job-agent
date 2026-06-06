@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-06-06T06:42:10.924540",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Ops Coordinator",
+      "company": "Hulp",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4424349591",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-06T06:41:08.857010",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "Adsparkx",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4423047203",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-06T06:41:08.857010",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Program Officer - Delhi, Jharkhand, Karnataka, Assam, Odisha, Punjab and Rajasthan",
+      "company": "Jhpiego",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4424728236",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-06T06:41:21.092985",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Operations Analyst",
+      "company": "Cisco",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4424170881",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-06T06:41:26.780154",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Associate - Operations - Operations - CBS - FIN - Controlling-General Accounting - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4373057133",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-06T06:41:30.665552",
+      "search_term": "operations associate"
+    }
+  ]
+}
