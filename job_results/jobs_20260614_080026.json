@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-06-14T08:00:26.386520",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Operations Associate",
+      "company": "upGrad",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4425013515",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-14T07:59:25.805885",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4376527586",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-14T07:59:30.412581",
+      "search_term": "operations executive"
+    }
+  ]
+}
