@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-06-15T09:41:46.464605",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Project Coordinator (CSR)",
+      "company": "MakeMyTrip",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4428685681",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-15T09:40:44.306680",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - Operations",
+      "company": "SmartQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4427508434",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-15T09:40:52.105840",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Onecom",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4425804314",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-15T09:40:57.582589",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Finance Executive",
+      "company": "Luxury Personified",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4422270290",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-15T09:41:04.830770",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Returns Business Operations Analyst",
+      "company": "HP",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4425621838",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-15T09:41:04.830770",
+      "search_term": "business operations"
+    }
+  ]
+}
