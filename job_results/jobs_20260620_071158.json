@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-06-20T07:11:58.474431",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Operations Associate",
+      "company": "Confidential Jobs",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4428202895",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-20T07:10:52.033526",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Loan Operations Associate",
+      "company": "GyanDhan",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4429030757",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-20T07:10:52.033526",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Associate - Operations And Supply Chain in Delhi, Delhi (Hybrid)",
+      "company": "BearHugs",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4429724931",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-20T07:10:52.033526",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Ecommerce Operations Executive",
+      "company": "Clinikally (YC S22)",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4428039672",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-20T07:10:59.470106",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Customer Service Associate",
+      "company": "Reliance Retail",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4256686426",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-20T07:11:10.761348",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Safety Executive (Aviation Experience)",
+      "company": "Air India SATS Airport Services Private Limited (AISATS)",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4429503261",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-20T07:11:10.761348",
+      "search_term": "business operations"
+    }
+  ]
+}
