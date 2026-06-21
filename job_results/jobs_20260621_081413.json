@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-06-21T08:14:13.530786",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Project Coordinator (CSR)",
+      "company": "MakeMyTrip",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4428685681",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-21T08:13:01.480195",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - Operations",
+      "company": "SmartQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4429778511",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-21T08:13:13.435234",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "UN Coordination Officer- Gender Equality and Youth Development (NPSA8) - UNRCO, UN Women and UNFPA, New Delhi, INDIA",
+      "company": "UN Women",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4427637103",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-21T08:13:19.869317",
+      "search_term": "program coordinator"
+    }
+  ]
+}
