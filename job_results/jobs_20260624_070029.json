@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-06-24T07:00:29.098531",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Executive - Operations",
+      "company": "SmartQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4429778511",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-24T06:59:19.016835",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Founder’s Office Generalist",
+      "company": "TartanHQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4429092748",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-24T06:59:35.626204",
+      "search_term": "business operations"
+    }
+  ]
+}
