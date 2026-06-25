@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-06-25T06:59:49.137994",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Founder's Office - Operations",
+      "company": "SuperNode",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4428466570",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-25T06:58:38.079626",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Associate in Delhi",
+      "company": "MiM-Essay",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4432054104",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-25T06:58:38.079626",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Account Coordinator India - Customer Fulfillment",
+      "company": "Crocs, Inc.",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4417661106",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-25T06:58:38.079626",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Business Operations Associate",
+      "company": "Arrow Electronics",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4414211730",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-25T06:58:38.079626",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Analyst - UBS",
+      "company": "Tata Communications",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4429684405",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-25T06:59:00.526921",
+      "search_term": "business operations"
+    }
+  ]
+}
