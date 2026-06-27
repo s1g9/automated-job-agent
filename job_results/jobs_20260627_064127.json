@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-06-27T06:41:27.318758",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Supply Chain Operations Associate",
+      "company": "Accenture in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4426417214",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-27T06:40:21.244169",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Program Associate",
+      "company": "Digiaccel Learning",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4433321530",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-27T06:40:40.710674",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Sr. Associate Coordinator - Active Citizenship",
+      "company": "ComMutiny - The Youth Collective",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4432650519",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-27T06:40:40.710674",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "District Coordinator Delhi",
+      "company": "Rocket Learning",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4430391737",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-27T06:40:40.710674",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Holidays Supply - Tours & Attractions",
+      "company": "MakeMyTrip",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4432204019",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-27T06:40:46.361078",
+      "search_term": "business operations"
+    }
+  ]
+}
