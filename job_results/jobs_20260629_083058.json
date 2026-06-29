@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-06-29T08:30:58.903992",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Procurement Operations Associate",
+      "company": "Accenture in India",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4410623106",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-29T08:29:45.678155",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operation Executive, External Fulfillment",
+      "company": "Amazon",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4431687267",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-29T08:29:45.678155",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Associate",
+      "company": "Scoutit",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4433616056",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-29T08:30:06.610842",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Process Engineer",
+      "company": "aramco",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4432603466",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-06-29T08:30:26.871027",
+      "search_term": "process coordinator"
+    }
+  ]
+}
