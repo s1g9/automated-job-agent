@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-07-01T07:53:33.883819",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Supply Chain Operations Associate",
+      "company": "Accenture in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4426463106",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-01T07:52:36.466245",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Business Operations Associate",
+      "company": "Arrow Electronics",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4414211730",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-01T07:52:36.466245",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive – Operations",
+      "company": "SmartQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4434973571",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-01T07:52:40.575204",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Cushman & Wakefield",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4433223730",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-01T07:52:47.991060",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Administrator",
+      "company": "Rockwell Automation",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4435165749",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-01T07:52:47.991060",
+      "search_term": "program coordinator"
+    }
+  ]
+}
