@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-07-04T06:33:10.822502",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Executive - Operations",
+      "company": "SmartQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4434101682",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-04T06:32:12.662612",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Associate",
+      "company": "Clinton Health Access Initiative, Inc.",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4434141976",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-04T06:32:17.026476",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Founder’s Office - GTM",
+      "company": "CredHive",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4435379855",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-04T06:32:26.356190",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Founder’s Office - Ops & Marketplace",
+      "company": "Kasacore",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4432362711",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-04T06:32:26.356190",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Supply Chain Operations Associate",
+      "company": "Accenture in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4431980507",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-04T06:32:33.229991",
+      "search_term": "operations associate"
+    }
+  ]
+}
