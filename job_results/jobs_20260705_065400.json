@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-07-05T06:54:00.931331",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Executive – Operations",
+      "company": "SmartQ",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4434973571",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-05T06:52:59.204382",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Cushman & Wakefield",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4436320862",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-05T06:53:10.357059",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate",
+      "company": "Scoutit",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4435786726",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-05T06:53:10.357059",
+      "search_term": "program coordinator"
+    }
+  ]
+}
