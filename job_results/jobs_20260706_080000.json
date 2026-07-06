@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-07-06T08:00:00.647916",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Associate - Operations",
+      "company": "Alight Solutions",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4414339421",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-06T07:59:01.328152",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4376517961",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-06T07:59:05.645528",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Associate",
+      "company": "Scoutit",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4436038215",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-06T07:59:13.157816",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "30 Sundays",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4436312109",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-06T07:59:19.074160",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Founders Office",
+      "company": "CredHive",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4437125039",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-06T07:59:19.074160",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Fleet Operations",
+      "company": "Crossing Hurdles",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4376999594",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-06T07:59:26.074124",
+      "search_term": "operations associate"
+    }
+  ]
+}
