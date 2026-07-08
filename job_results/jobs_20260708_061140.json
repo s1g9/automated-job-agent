@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-07-08T06:11:40.288241",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Facilities Coordinator",
+      "company": "Wiley",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4432772386",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-08T06:10:29.263905",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Cushman & Wakefield",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4436320862",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-08T06:10:51.442992",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Visa Operations - Airline Desk",
+      "company": "MakeMyTrip",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4432362919",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-08T06:11:04.710583",
+      "search_term": "operations associate"
+    }
+  ]
+}
