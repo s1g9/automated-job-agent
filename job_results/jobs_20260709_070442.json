@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-07-09T07:04:42.798700",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Associate - Operations",
+      "company": "Alight Solutions",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4414339421",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-09T07:03:39.553398",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4376517961",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-09T07:03:46.327740",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Associate",
+      "company": "Scoutit",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4437020589",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-09T07:03:53.062580",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "30 Sundays",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4436312109",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-09T07:03:58.070597",
+      "search_term": "business operations"
+    }
+  ]
+}
