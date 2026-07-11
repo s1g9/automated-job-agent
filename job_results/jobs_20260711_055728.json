@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-07-11T05:57:28.492190",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Supply & Operations Associate",
+      "company": "TheLuxeTrails",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4437390347",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-11T05:56:17.575798",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Associate",
+      "company": "Alike",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4439001964",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-11T05:56:17.575798",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Programme Assistant, Large-Scale Events (LSEs)",
+      "company": "The Economist",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4435698093",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-11T05:56:39.551368",
+      "search_term": "program coordinator"
+    }
+  ]
+}
