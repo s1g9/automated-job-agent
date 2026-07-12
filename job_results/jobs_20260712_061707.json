@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-07-12T06:17:07.077092",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "Aristocrat",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4437940864",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-12T06:16:22.027002",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate",
+      "company": "Scoutit",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4438948147",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-12T06:16:22.027002",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "30 Sundays",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4436312109",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-12T06:16:26.903278",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Founders Office",
+      "company": "CredHive",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4437125039",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-12T06:16:26.903278",
+      "search_term": "business operations"
+    }
+  ]
+}
