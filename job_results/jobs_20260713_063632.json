@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-07-13T06:36:32.053546",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Account Coordinator India - Customer Fulfillment",
+      "company": "Crocs, Inc.",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4417661106",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-13T06:35:29.263926",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "Aliste Technologies",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4437514647",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-13T06:35:29.263926",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Building Operations, Transport Services",
+      "company": "JLL",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4438683574",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-13T06:35:29.263926",
+      "search_term": "operations coordinator"
+    }
+  ]
+}
