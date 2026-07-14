@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-07-14T05:45:02.738208",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Supply & Operations Associate",
+      "company": "TheLuxeTrails",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4437390347",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-14T05:43:47.385648",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Supply Chain Operations Associate",
+      "company": "Accenture in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4437295500",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-14T05:43:47.385648",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Program Documentation and Learning Coordinator",
+      "company": "Khan Academy",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4408644658",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-14T05:44:08.862516",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Operation Executive in Gurgaon",
+      "company": "Zippee",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4438842950",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-14T05:44:16.568520",
+      "search_term": "business operations"
+    }
+  ]
+}
