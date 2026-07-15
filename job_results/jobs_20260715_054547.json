@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-07-15T05:45:47.046596",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Associate - Operations",
+      "company": "Alight Solutions",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4428965467",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-15T05:44:37.708605",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Entrepreneur in Residence",
+      "company": "30 Sundays",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4436312109",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-15T05:45:03.563417",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Revenue & Growth - Founder's Office",
+      "company": "Crepdog Crew",
+      "location": "Saket, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4439846177",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-15T05:45:03.563417",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Founder's Office- AI Automations and Business Systems",
+      "company": "Faym",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4439861215",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-15T05:45:03.563417",
+      "search_term": "business operations"
+    }
+  ]
+}
