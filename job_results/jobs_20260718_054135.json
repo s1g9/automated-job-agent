@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-07-18T05:41:35.006966",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Supply Chain Operations Associate",
+      "company": "Accenture in India",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4405178447",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-18T05:40:11.087130",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Procurement Operations Associate",
+      "company": "Accenture in India",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4410623106",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-18T05:40:11.087130",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Holiday Package Operations Executive in Gurgaon",
+      "company": "Polar Routes Holidays Pvt. Ltd",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4440350621",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-18T05:40:30.786745",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Data Analyst - Hotels",
+      "company": "MakeMyTrip",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4440922768",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-18T05:40:43.589105",
+      "search_term": "business operations"
+    }
+  ]
+}
