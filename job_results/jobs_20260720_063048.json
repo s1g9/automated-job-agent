@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-07-20T06:30:48.440526",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "People Operations Coordinator",
+      "company": "PepsiCo",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4438409761",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-20T06:29:38.201293",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Cushman & Wakefield",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4440650357",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-20T06:29:55.659733",
+      "search_term": "program coordinator"
+    }
+  ]
+}
