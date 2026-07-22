@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-07-22T06:09:17.208826",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Supply Chain Operations Associate",
+      "company": "Accenture in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4422725276",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-22T06:08:15.358693",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Management Executive",
+      "company": "Broadway",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4442640150",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-22T06:08:15.358693",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Associate",
+      "company": "A.N. JAIN",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4440442068",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-22T06:08:15.358693",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Program officer – Competency enhancement",
+      "company": "Jhpiego",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4440556642",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-22T06:08:23.554000",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "ETASHA Society",
+      "location": "South East Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4441170966",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-22T06:08:23.554000",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Analyst/Process Consultant",
+      "company": "Capgemini",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4442438924",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-22T06:08:44.907145",
+      "search_term": "process coordinator"
+    }
+  ]
+}
