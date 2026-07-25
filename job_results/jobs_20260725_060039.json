@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-07-25T06:00:39.357658",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Supply Chain Operations Associate",
+      "company": "Accenture in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4432741530",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-25T05:59:16.360478",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "VP of Operations",
+      "company": "JoVE",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4444339861",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-25T05:59:34.374406",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Visa Operations - Airline Desk",
+      "company": "MakeMyTrip",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4432362919",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-25T05:59:59.574305",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Supply Chain Operations Analyst",
+      "company": "Accenture in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4435353528",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-25T05:59:59.574305",
+      "search_term": "operations associate"
+    }
+  ]
+}
