@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-07-27T06:48:42.215796",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Fleet Coordinator - Delhi (contractual)",
+      "company": "Flix",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4443908610",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-27T06:46:50.025676",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive-Lifestyle",
+      "company": "Broadway",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4442640150",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-27T06:46:50.025676",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Founder's Office",
+      "company": "Faym",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4442054980",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-27T06:47:18.288339",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Engineer- Process",
+      "company": "Jacobs",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4443787686",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-27T06:48:07.421866",
+      "search_term": "process coordinator"
+    }
+  ]
+}
