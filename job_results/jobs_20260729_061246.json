@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-07-29T06:12:46.327083",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Order-To-Cash Operations Coordinator",
+      "company": "Pentair",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4444069493",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-29T06:11:42.673717",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Coordinator, India",
+      "company": "Intrepid Travel",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4446339136",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-29T06:11:42.673717",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Supply Chain Operations Analyst",
+      "company": "Accenture in India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4435353528",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-29T06:12:04.468812",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Engineer-Process",
+      "company": "Jacobs",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4369606854",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-29T06:12:11.354917",
+      "search_term": "process coordinator"
+    }
+  ]
+}
