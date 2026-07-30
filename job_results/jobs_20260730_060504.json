@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-07-30T06:05:04.277057",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Program Documentation and Learning Coordinator",
+      "company": "Khan Academy",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4408644658",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-30T06:04:15.328345",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Program Documentation and Learning Coordinator in Gurgaon | Khan Academy",
+      "company": "aikyam jobs",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4444504061",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-30T06:04:15.328345",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Operations Assistant",
+      "company": "Insurity",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4445709892",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-30T06:04:27.889556",
+      "search_term": "operations associate"
+    }
+  ]
+}
