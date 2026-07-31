@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-07-31T06:28:25.033710",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Associate",
+      "company": "Clinton Health Access Initiative, Inc.",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4444174081",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-31T06:27:32.208405",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Program Operations Associate",
+      "company": "Accredian",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4446548725",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-31T06:27:32.208405",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Revenue Management",
+      "company": "MakeMyTrip",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4428815899",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-31T06:27:36.234548",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Founder's Office - Operations",
+      "company": "IncrediPets",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4444886506",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-31T06:27:36.234548",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Associate - Business Analyst-Business Process & Service Excellence -Business Analyst",
+      "company": "EXL",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4446723624",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-07-31T06:27:51.043629",
+      "search_term": "process coordinator"
+    }
+  ]
+}
