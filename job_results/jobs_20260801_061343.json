@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-08-01T06:13:43.296592",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Field Service Coordinator",
+      "company": "Woodward, Inc.",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4434809715",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-01T06:12:30.852500",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Assistant Manage, Commodity Management & Sourcing",
+      "company": "Carrier",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4443893317",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-01T06:12:59.528779",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Backfill Hiring",
+      "company": "EXL",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4446733175",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-01T06:13:09.997102",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "4755118-Executives",
+      "company": "EXL",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4446725507",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-01T06:13:09.997102",
+      "search_term": "process coordinator"
+    }
+  ]
+}
