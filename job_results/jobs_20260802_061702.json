@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-08-02T06:17:02.904209",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Executive - HR - Operations - CBS - TAL - Learning - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4445514774",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-02T06:16:01.897552",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Executive - HR - Operations - CBS - TAL - Enablement - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4447141166",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-02T06:16:01.897552",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Program Documentation and Learning Coordinator in Gurgaon | Khan Academy",
+      "company": "aikyam jobs",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4444504061",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-02T06:16:09.325531",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Program Documentation and Learning Coordinator",
+      "company": "Khan Academy",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4408644658",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-02T06:16:09.325531",
+      "search_term": "program coordinator"
+    }
+  ]
+}
