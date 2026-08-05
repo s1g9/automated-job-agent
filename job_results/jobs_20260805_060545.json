@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-08-05T06:05:45.547133",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Ad Operations Coordinator",
+      "company": "Prodege, LLC",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4449095126",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-05T06:04:36.604314",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Executive - HR - Operations - CBS - TAL - Learning - Gurgaon",
+      "company": "EY",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4445514774",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-05T06:04:42.817426",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Project Administrator",
+      "company": "Rockwell Automation",
+      "location": "Bawana, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4446744937",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-05T06:04:51.788549",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate, GEP",
+      "company": "Room to Read India",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4448940683",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-05T06:04:51.788549",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Operations",
+      "company": "Vaya",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4448610638",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-05T06:04:56.951196",
+      "search_term": "business operations"
+    },
+    {
+      "title": "AI Operations Associate",
+      "company": "TravClan",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4447963634",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-05T06:04:56.951196",
+      "search_term": "business operations"
+    }
+  ]
+}
