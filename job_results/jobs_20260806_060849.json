@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-08-06T06:08:49.005880",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Marketplace Operations Executive",
+      "company": "Puresta",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4446616077",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-06T06:07:59.878304",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "State Coordinator",
+      "company": "India Child Protection",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4449954170",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-06T06:08:04.309337",
+      "search_term": "program coordinator"
+    }
+  ]
+}
