@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-08-08T04:33:24.893623",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Ad Operations Coordinator",
+      "company": "Prodege, LLC",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4449095126",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-08T04:32:23.282883",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "AI Operations Associate",
+      "company": "TravClan",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4447963634",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-08T04:32:40.172182",
+      "search_term": "business operations"
+    }
+  ]
+}
