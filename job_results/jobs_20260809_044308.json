@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-08-09T04:43:08.064681",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "State Coordinator",
+      "company": "India Child Protection",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4449954170",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-09T04:42:16.642816",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate, GEP",
+      "company": "Room to Read India",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4448940683",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-09T04:42:16.642816",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Founders Office",
+      "company": "CredHive",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4451040709",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-09T04:42:24.225030",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Analyst - Operations",
+      "company": "Alight Solutions",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4439218113",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-09T04:42:33.686755",
+      "search_term": "process coordinator"
+    }
+  ]
+}
