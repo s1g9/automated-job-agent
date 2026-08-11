@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-08-11T04:47:33.650297",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Ad Operations Coordinator",
+      "company": "Prodege, LLC",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4449095126",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-11T04:46:36.320618",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Marketplace Operations Executive",
+      "company": "Puresta",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4449525750",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-11T04:46:41.069516",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Business Excellence",
+      "company": "Vianaar Homes",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4451184274",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-11T04:46:51.234871",
+      "search_term": "business operations"
+    }
+  ]
+}
