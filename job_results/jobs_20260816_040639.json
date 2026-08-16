@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-08-16T04:06:39.551720",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Supply Chain Operation Executive",
+      "company": "GrowthJockey",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4451652675",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-16T04:05:23.845817",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Coordinator – Programmes in Gurgaon | Nanhi Chhaan Foundation",
+      "company": "aikyam jobs",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4450139422",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-16T04:05:40.501300",
+      "search_term": "program coordinator"
+    }
+  ]
+}
