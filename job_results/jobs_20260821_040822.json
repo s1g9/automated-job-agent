@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-08-21T04:08:22.243662",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operations Executive",
+      "company": "Bachatt",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4454254866",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-21T04:07:05.110670",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4455914446",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-21T04:07:18.260478",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Associate",
+      "company": "The Convergence Foundation",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4452831076",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-21T04:07:29.709083",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Volunteer Management Coordinator",
+      "company": "ETASHA Society",
+      "location": "South Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4456059058",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-21T04:07:29.709083",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Executive Policy Issuance",
+      "company": "Policybazaar for Business",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4451204527",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-21T04:07:53.199574",
+      "search_term": "process coordinator"
+    }
+  ]
+}
