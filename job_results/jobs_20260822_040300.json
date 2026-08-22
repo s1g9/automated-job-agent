@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-08-22T04:03:00.810185",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Associate — Tutor Success Operation",
+      "company": "Cuemath",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4454290795",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-22T04:01:40.348061",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Backend Operations Executive",
+      "company": "Symbiosis Infra Pvt Ltd",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4456099322",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-22T04:01:40.348061",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Associate",
+      "company": "MiM-Essay",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4456207806",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-22T04:01:40.348061",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "AI Operations Associate",
+      "company": "TravClan",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4454709734",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-22T04:02:11.805961",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Coordinator-Premium Audit",
+      "company": "EXL",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4446731389",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-22T04:02:30.785043",
+      "search_term": "process coordinator"
+    }
+  ]
+}
