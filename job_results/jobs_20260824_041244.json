@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-08-24T04:12:44.923472",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "EF Operation Executive",
+      "company": "Amazon",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4455914446",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-24T04:11:43.550339",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Volunteer Management Coordinator",
+      "company": "ETASHA Society",
+      "location": "South Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4456059058",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-24T04:11:54.826182",
+      "search_term": "program coordinator"
+    }
+  ]
+}
