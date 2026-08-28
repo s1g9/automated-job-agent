@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-08-28T15:33:08.062667",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Operations Associate in Delhi",
+      "company": "MiM-Essay",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4459091132",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-28T15:31:50.727807",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Program Officer – Simulations",
+      "company": "Jhpiego",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4459678225",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-08-28T15:32:14.802135",
+      "search_term": "program coordinator"
+    }
+  ]
+}
