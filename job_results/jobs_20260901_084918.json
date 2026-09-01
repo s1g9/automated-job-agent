@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-09-01T08:49:18.138384",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Freight Operations",
+      "company": "Xtracare Logistics Private Limited",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4459215220",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-01T08:48:09.491872",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive",
+      "company": "TALBIYA UMRAH PVT LTD",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4458961271",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-01T08:48:19.322110",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operation Executive, External Fulfillment",
+      "company": "Amazon",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4461257555",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-01T08:48:19.322110",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Analyst I, Client Service Operations",
+      "company": "Kroll",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4438743282",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-01T08:48:51.449130",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Client Onboarding Executive",
+      "company": "AIRIQ 365",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4458620241",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-01T08:48:51.449130",
+      "search_term": "process coordinator"
+    }
+  ]
+}
