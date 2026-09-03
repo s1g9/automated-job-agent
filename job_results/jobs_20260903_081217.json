@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-09-03T08:12:17.951143",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Program Associate - Fulfilment",
+      "company": "Aramya",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4459257931",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-03T08:10:58.950043",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "B2B Operations Executive in Gurgaon",
+      "company": "Astrotalk",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4462730043",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-03T08:11:09.444515",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Business Operations Support Associate",
+      "company": "Crowe Capability Center – India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4462704134",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-03T08:11:44.495005",
+      "search_term": "operations associate"
+    }
+  ]
+}
