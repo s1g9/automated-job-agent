@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-09-06T08:01:52.271748",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Operations Coordinator, North India",
+      "company": "ElectricPe",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4462727437",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-06T08:00:34.950866",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Program Associate - Fulfilment",
+      "company": "Aramya",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4459257931",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-06T08:00:34.950866",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Backend Operations Executive",
+      "company": "Symbiosis Infra Pvt Ltd",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4461169749",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-06T08:00:39.988397",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Associate, AI and Digital Transformation (Rural Economy and Development)",
+      "company": "Athena Infonomics",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4460030052",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-06T08:00:51.092359",
+      "search_term": "program coordinator"
+    }
+  ]
+}
