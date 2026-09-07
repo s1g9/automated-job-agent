@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-09-07T08:32:03.629677",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Coordinator, Transportation Execution",
+      "company": "Corning Incorporated",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4459509415",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-07T08:30:43.246998",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Freight Operations",
+      "company": "Xtracare Logistics Private Limited",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4459215220",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-07T08:30:43.246998",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Program Associate",
+      "company": "Digiaccel Learning",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4461155594",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-07T08:30:59.468893",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Order to Cash Operations New Associate",
+      "company": "Accenture services Pvt Ltd",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4463661064",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-07T08:31:24.418427",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Marketplace Operations Associate",
+      "company": "&Done",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4462928072",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-07T08:31:24.418427",
+      "search_term": "operations associate"
+    }
+  ]
+}
