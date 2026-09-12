@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-09-12T08:02:37.864970",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Program Associate - Generalist",
+      "company": "Novatr",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4463533474",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-12T08:01:47.342714",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Management - PBWM",
+      "company": "Barclays",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4463919129",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-12T08:01:53.149346",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Coordinator-Premium Audit",
+      "company": "EXL",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4446731389",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-12T08:02:06.119911",
+      "search_term": "process coordinator"
+    }
+  ]
+}
