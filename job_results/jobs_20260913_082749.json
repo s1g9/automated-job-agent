@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-09-13T08:27:49.128834",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operations Executive - Placement | Career Development Centre",
+      "company": "K.R. Mangalam University",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4466044399",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-13T08:26:50.011151",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Operations Executive DLF 376209",
+      "company": "Blue Dart",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4464618096",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-13T08:26:55.314625",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Program Associate",
+      "company": "Digiaccel Learning",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4462225108",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-13T08:27:02.081532",
+      "search_term": "program coordinator"
+    }
+  ]
+}
