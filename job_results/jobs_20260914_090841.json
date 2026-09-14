@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-09-14T09:08:41.892349",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Import Coordinator",
+      "company": "Continental Device India Pvt. Ltd.",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4464840789",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-14T09:07:37.218817",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "World Comics India",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4465464827",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-14T09:07:53.353233",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Operation Executive",
+      "company": "Zippee",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4463803893",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-14T09:08:01.027377",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Operations Associate (Rotational Day & Night Shift)",
+      "company": "TravClan",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4465719454",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-14T09:08:06.025976",
+      "search_term": "operations associate"
+    }
+  ]
+}
