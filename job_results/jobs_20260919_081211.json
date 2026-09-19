@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-09-19T08:12:11.362393",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Executive - Business Operations",
+      "company": "iDream Education",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4466512670",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-19T08:11:09.321690",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Integration Support Coordinator",
+      "company": "Crowe Capabilities Center – India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4460131104",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-19T08:11:14.261240",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Banking Operations Associate",
+      "company": "NTT DATA North America",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4467742232",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-19T08:11:35.890904",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Insurance Operations Associate",
+      "company": "Accenture services Pvt Ltd",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4466575832",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-19T08:11:35.890904",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "SPE-Policy Servicing",
+      "company": "Cognizant",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4466850146",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-19T08:11:42.122004",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Analyst I, Client Service Operations",
+      "company": "Kroll",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4438743282",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-19T08:11:42.122004",
+      "search_term": "process coordinator"
+    }
+  ]
+}
