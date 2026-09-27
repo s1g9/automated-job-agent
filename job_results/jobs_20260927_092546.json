@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-09-27T09:25:46.112709",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "F&B Operations Coordinator",
+      "company": "Sparrows At Home Cafe",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4471089633",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-27T09:24:33.061913",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Ecom Operations Executive",
+      "company": "Shop In Shop India",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4471092292",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-27T09:24:33.061913",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Enablement / Copilot Coordinator",
+      "company": "McCain Foods",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4443115116",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-27T09:24:52.159454",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Program Associate",
+      "company": "Altera Institute",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4470697760",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-27T09:24:52.159454",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Order-To-Cash Operations Coordinator",
+      "company": "Pentair",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4444069493",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-09-27T09:25:15.758593",
+      "search_term": "process coordinator"
+    }
+  ]
+}
