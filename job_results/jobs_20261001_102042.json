@@ -1,0 +1,32 @@
+{
+  "search_date": "2026-10-01T10:20:42.507779",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Franchise Operations Coordinator (B2B -Travel & Tourism)",
+      "company": "Cox & Kings",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4472166173",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-01T10:19:32.932347",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Travel Operations Coordinator",
+      "company": "JobTrade",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4472392140",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-01T10:19:32.932347",
+      "search_term": "operations coordinator"
+    }
+  ]
+}
