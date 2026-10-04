@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-10-04T10:00:45.705529",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Program Officer",
+      "company": "HCLFoundation",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4474129737",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-04T09:59:54.329863",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "SR. TRAINING COORDINATOR II-MULTILINGUAL",
+      "company": "NIIT",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4473266631",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-04T09:59:54.329863",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Associate",
+      "company": "BokettoTravels",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4474205371",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-04T10:00:00.257734",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Operations Associate / Generalist",
+      "company": "Dach & Nona",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4475383188",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-04T10:00:05.874156",
+      "search_term": "operations associate"
+    }
+  ]
+}
