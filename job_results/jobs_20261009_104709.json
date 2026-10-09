@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-10-09T10:47:09.906061",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Program Associate",
+      "company": "Altera Institute",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4477639207",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-09T10:46:16.124178",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Integration Support Coordinator",
+      "company": "Crowe Capabilities Center – India",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4460131104",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-09T10:46:16.124178",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Process Coordinator",
+      "company": "VoyageEyewear",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4474672578",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-09T10:46:40.639794",
+      "search_term": "process coordinator"
+    }
+  ]
+}
