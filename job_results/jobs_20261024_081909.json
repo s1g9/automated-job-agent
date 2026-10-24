@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-10-24T08:19:09.407872",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operations Executive",
+      "company": "WonderStand ✨",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4481668900",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-24T08:17:45.832848",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Programme Coordinator – MEL, Documentation & Donor Relations",
+      "company": "Responsenet",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4480781428",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-24T08:17:55.658324",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate - Operations",
+      "company": "Alight Solutions",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4480643527",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-24T08:18:30.897353",
+      "search_term": "operations associate"
+    }
+  ]
+}
