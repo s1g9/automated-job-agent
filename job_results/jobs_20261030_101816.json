@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-10-30T10:18:16.938813",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Project Coordinator",
+      "company": "World Comics India",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4483855520",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-30T10:17:21.104805",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "AI Operations Associate",
+      "company": "TravClan",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4482992481",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-30T10:17:29.057538",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Operations Associate (Rotational Day & Night Shift)",
+      "company": "TravClan",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4483208132",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-30T10:17:36.654144",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Associate - Operations",
+      "company": "Alight Solutions",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4473638105",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-30T10:17:36.654144",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Junior E-commerce Marketplace Associate",
+      "company": "Epically Global",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4482669723",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-10-30T10:17:36.654144",
+      "search_term": "operations associate"
+    }
+  ]
+}
