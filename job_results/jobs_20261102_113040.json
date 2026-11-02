@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-11-02T11:30:40.890880",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Operations Executive",
+      "company": "Malee Hospitality",
+      "location": "Noida, Uttar Pradesh, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4485435805",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-02T11:29:40.970435",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "World Comics India",
+      "location": "Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4483855520",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-02T11:29:50.418709",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Associate - Operations",
+      "company": "Alight Solutions",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4476587664",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-02T11:30:01.865175",
+      "search_term": "operations associate"
+    }
+  ]
+}
