@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-11-06T11:15:10.719689",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Admin & Operations Associate",
+      "company": "UniHawk Global",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4485896994",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-06T11:14:02.337179",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "Associate, Program Operations",
+      "company": "Room to Read India",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4486032726",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-06T11:14:19.329712",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Disbursement Coordinator",
+      "company": "American Express Global Business Travel",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4483925445",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-06T11:14:39.920712",
+      "search_term": "process coordinator"
+    },
+    {
+      "title": "Analyst - Client Onboarding Coordination",
+      "company": "Macquarie Group",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4470967662",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-06T11:14:39.920712",
+      "search_term": "process coordinator"
+    }
+  ]
+}
