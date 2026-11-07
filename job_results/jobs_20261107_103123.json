@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-11-07T10:31:23.282819",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Delivery Operations Executive",
+      "company": "Larsen & Toubro",
+      "location": "Faridabad, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4480380104",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-07T10:30:34.406474",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Enablement / Copilot Coordinator",
+      "company": "McCain Foods",
+      "location": "Gurgaon, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4443115116",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-07T10:30:34.406474",
+      "search_term": "program coordinator"
+    },
+    {
+      "title": "Business Management - PBWM",
+      "company": "Barclays",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4486299130",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-07T10:30:38.473027",
+      "search_term": "business operations"
+    },
+    {
+      "title": "Operations Associate (Rotational Day & Night Shift)",
+      "company": "TravClan",
+      "location": "New Delhi, Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4486052275",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-07T10:30:45.667446",
+      "search_term": "operations associate"
+    }
+  ]
+}
