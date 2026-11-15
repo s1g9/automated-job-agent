@@ -1,0 +1,71 @@
+{
+  "search_date": "2026-11-15T11:19:01.195154",
+  "total_jobs": 5,
+  "jobs": [
+    {
+      "title": "Operations Coordinator",
+      "company": "Unloq",
+      "location": "Delhi, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4489077010",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-15T11:17:46.092106",
+      "search_term": "operations coordinator"
+    },
+    {
+      "title": "E-COMMERCE SELLER CENTRAL OPERATIONS EXECUTIVE",
+      "company": "Twigs Direct",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4489868491",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-15T11:17:51.565629",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Operations Executive (Travel)",
+      "company": "Offline by Happy Hour",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4489538708",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-15T11:17:51.565629",
+      "search_term": "operations executive"
+    },
+    {
+      "title": "Order to Cash Operations Associate",
+      "company": "Accenture services Pvt Ltd",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4489046290",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-15T11:18:21.683858",
+      "search_term": "operations associate"
+    },
+    {
+      "title": "Order to Cash Operations New Associate",
+      "company": "Accenture services Pvt Ltd",
+      "location": "Gurugram, Haryana, India",
+      "salary": "Check job description",
+      "experience": "Entry level",
+      "url": "https://www.linkedin.com/jobs/view/4489036541",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-15T11:18:21.683858",
+      "search_term": "operations associate"
+    }
+  ]
+}
