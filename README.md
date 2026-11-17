@@ -1,6 +1,6 @@
 # Automated Job Search Agent
 
-This system automatically searches for Operations jobs daily that match specific criteria for Shivani Arora.
+This system automatically searches for Program Management jobs in Pharma/Healthcare/Metabolic Health sectors daily that match specific criteria for Shivani Arora.
 
 ## 🚀 Quick Setup (GitHub Actions - FREE)
 
@@ -21,9 +21,10 @@ git push -u origin main
 
 The system will automatically:
 - ✅ Run daily at 9 AM IST
-- ✅ Search 7 job platforms
-- ✅ Filter for Gurugram/NCR locations
-- ✅ Find entry-level operations roles >9 LPA
+- ✅ Search multiple job platforms (LinkedIn, Naukri, Glassdoor, Indeed)
+- ✅ Filter for Bangalore locations
+- ✅ Find Program Management roles in Pharma/Healthcare >8 LPA
+- ✅ Target mid-level positions (3-5 years experience)
 - ✅ Save results to your GitHub repo
 - ✅ Avoid duplicate jobs
 
@@ -37,9 +38,10 @@ python main.py
 ## 📊 Features
 
 ### Job Search Coverage
-- **7 Platforms**: LinkedIn, Indeed, TimesJobs, Monster, Shine, Foundit, Instahyre
-- **20+ Keywords**: operations coordinator, business operations, process coordinator, etc.
-- **Smart Filtering**: Location, experience level, salary range
+- **4 Platforms**: LinkedIn, Indeed, Naukri, Glassdoor
+- **15+ Keywords**: program manager, project manager, clinical program coordinator, healthcare program, pharma capability center, etc.
+- **Industry Focus**: Pharma, Healthcare, Metabolic Health, Life Sciences, Capability Centers (GCC)
+- **Smart Filtering**: Location, experience level (3-5 years), salary range (8+ LPA)
 - **Duplicate Prevention**: Tracks seen jobs across days
 
 ### Automated Scheduling
@@ -58,10 +60,12 @@ job_results/
 ## 🎯 Search Criteria
 
 Based on Shivani's profile:
-- **Experience**: Entry level (0-2 years)
-- **Salary**: Minimum 9 LPA
-- **Location**: Gurugram, Gurgaon, Delhi, New Delhi, Noida, Faridabad
-- **Roles**: Operations Coordinator, Operations Executive, Program Coordinator, etc.
+- **Experience**: Mid-level (3-5 years)
+- **Current Salary**: 5.4 LPA
+- **Target Salary**: Minimum 8 LPA
+- **Location**: Bangalore, Bengaluru, Electronic City, Whitefield
+- **Roles**: Program Manager, Project Manager, Program Coordinator, Clinical Program Manager, Medical Affairs Coordinator
+- **Industries**: Metabolic Health, Pharma, Healthcare, Life Sciences, Biotech, Capability Centers (GCC)
 
 ## 📱 Manual Run
 
@@ -74,9 +78,10 @@ python github_action_search.py
 
 Edit `.env` file:
 ```env
-MIN_SALARY_LPA=900000
-JOB_TITLES=operations,operations coordinator,business operations
-PREFERRED_LOCATIONS=gurugram,gurgaon,delhi,new delhi,noida
+MIN_SALARY_LPA=800000
+JOB_TITLES=program manager,project manager,program coordinator,clinical program coordinator
+PREFERRED_LOCATIONS=bangalore,bengaluru,electronic city,whitefield
+INDUSTRY_KEYWORDS=metabolic health,pharma,pharmaceutical,healthcare,capability center
 ```
 
 ## 📈 Expected Results
@@ -100,4 +105,4 @@ Add to GitHub Secrets:
 
 ---
 
-**🎉 Ready to find your next Operations opportunity!**
+**🎉 Ready to find your next Program Management opportunity in Pharma/Healthcare!**

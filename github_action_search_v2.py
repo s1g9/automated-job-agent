@@ -22,30 +22,31 @@ def main():
     
     try:
         # Configuration from environment variables
-        preferred_locations = os.getenv('PREFERRED_LOCATIONS', 'gurugram,gurgaon,delhi,new delhi,noida').split(',')
-        min_salary_lpa = 9
-        
+        preferred_locations = os.getenv('PREFERRED_LOCATIONS', 'bangalore,bengaluru,electronic city,whitefield').split(',')
+        min_salary_lpa = 8
+
         print(f"📋 Search Configuration:")
         print(f"  Platforms: LinkedIn, Indeed, Naukri, Glassdoor")
         print(f"  Locations: {', '.join(preferred_locations)}")
         print(f"  Min Salary: {min_salary_lpa} LPA")
-        print(f"  Experience: Entry level (0-2 years)")
+        print(f"  Experience: Mid-level (3-5 years)")
+        print(f"  Industry: Pharma / Healthcare / Metabolic Health / Capability Centers")
         print()
         
         # Perform comprehensive job search
-        print(f"🔍 Searching for Operations jobs...")
+        print(f"🔍 Searching for Program Management jobs in Pharma/Healthcare...")
         all_jobs = searcher.search_operations_jobs(
             preferred_locations=preferred_locations,
             min_salary_lpa=min_salary_lpa,
-            max_experience_years=2
+            max_experience_years=7
         )
         
         if not all_jobs:
             print("⚠️  No jobs found. Trying broader search...")
-            # Fallback: try with just "operations" as search term
+            # Fallback: try with broader program management terms
             import pandas as pd
             jobs_df = searcher.search_jobs(
-                search_terms=["operations"],
+                search_terms=["program manager", "project manager pharma", "healthcare program"],
                 location="India",
                 results_per_term=30,
                 hours_old=168

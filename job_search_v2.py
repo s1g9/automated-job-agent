@@ -106,53 +106,65 @@ class JobSearcherV2:
         print(f"📍 Jobs in preferred locations: {len(filtered_df)}")
         return filtered_df
     
-    def filter_by_experience(self, jobs_df: pd.DataFrame, max_years: int = 2) -> pd.DataFrame:
-        """Filter for entry-level positions"""
+    def filter_by_experience(self, jobs_df: pd.DataFrame, min_years: int = 3, max_years: int = 7) -> pd.DataFrame:
+        """Filter for mid-level positions (3-7 years experience)"""
         if jobs_df.empty:
             return jobs_df
-            
-        # Keywords that indicate entry-level positions
-        entry_keywords = [
-            'entry', 'fresher', 'junior', 'graduate', 'trainee', 'associate', 
-            'coordinator', 'beginner', '0-1', '0-2', 'new grad'
+
+        # Keywords that indicate appropriate experience level
+        target_keywords = [
+            'associate', 'coordinator', 'analyst', 'program manager',
+            'project manager', '3-5', '4-6', '3-7', '2-5', '4-7'
         ]
-        
-        # Keywords that indicate senior positions (to exclude)
+
+        # Keywords that indicate too senior positions (to exclude)
         senior_keywords = [
-            'senior', 'lead', 'manager', 'head', 'director', 'principal',
-            'expert', 'specialist', 'architect', '5+', '7+', '10+'
+            'senior manager', 'head', 'director', 'vp', 'vice president',
+            'principal', 'chief', '10+', '12+', '15+'
         ]
-        
-        def is_entry_level(row):
+
+        # Keywords that indicate too junior (to exclude)
+        junior_keywords = [
+            'fresher', 'intern', 'trainee', 'entry level', '0-1', '0-2'
+        ]
+
+        def matches_experience(row):
             title = str(row.get('title', '')).lower()
             description = str(row.get('description', '')).lower()
-            
+
             # Exclude clearly senior positions
             if any(keyword in title for keyword in senior_keywords):
                 return False
-                
-            # Include if matches entry-level criteria
-            if any(keyword in title for keyword in entry_keywords):
+
+            # Exclude too junior positions
+            if any(keyword in title for keyword in junior_keywords):
+                return False
+
+            # Include if matches target criteria
+            if any(keyword in title for keyword in target_keywords):
                 return True
-                
-            # Check description for experience requirements
-            if any(keyword in description for keyword in entry_keywords):
-                return True
-                
+
             # Look for specific year patterns in description
-            exp_pattern = r'(\d+)\s*(?:-\s*\d+)?\s*years?\s+(?:of\s+)?experience'
+            exp_pattern = r'(\d+)\s*(?:-\s*(\d+))?\s*years?\s+(?:of\s+)?experience'
             exp_matches = re.findall(exp_pattern, description)
             if exp_matches:
-                min_years = min(int(match) for match in exp_matches)
-                return min_years <= max_years
-                
+                for match in exp_matches:
+                    req_min = int(match[0])
+                    req_max = int(match[1]) if match[1] else req_min + 2
+                    # Check if her experience (4-5 years) falls within the range
+                    if req_min <= 5 and req_max >= 3:
+                        return True
+                # If explicit requirements don't match, exclude
+                if exp_matches:
+                    return False
+
             return True  # Include by default if unclear
-        
-        filtered_df = jobs_df[jobs_df.apply(is_entry_level, axis=1)]
-        print(f"👤 Entry-level jobs: {len(filtered_df)}")
+
+        filtered_df = jobs_df[jobs_df.apply(matches_experience, axis=1)]
+        print(f"👤 Jobs matching experience level (3-7 years): {len(filtered_df)}")
         return filtered_df
     
-    def filter_by_salary(self, jobs_df: pd.DataFrame, min_salary_lpa: int = 9) -> pd.DataFrame:
+    def filter_by_salary(self, jobs_df: pd.DataFrame, min_salary_lpa: int = 8) -> pd.DataFrame:
         """Filter jobs by minimum salary"""
         if jobs_df.empty:
             return jobs_df
@@ -211,7 +223,7 @@ class JobSearcherV2:
                 'company': str(row.get('company', 'Not specified')),
                 'location': str(row.get('location', 'Not specified')),
                 'salary': self._format_salary(row),
-                'experience': 'Entry level',  # Since we filtered for entry level
+                'experience': '3-5 years',  # Filtered for mid-level positions
                 'url': str(row.get('job_url', '')),
                 'source': str(row.get('site', 'JobSpy')).title(),
                 'description': str(row.get('description', ''))[:500] + '...' if pd.notna(row.get('description')) else '',
@@ -249,24 +261,28 @@ class JobSearcherV2:
         else:
             return "Check job description"
     
-    def search_operations_jobs(self, 
+    def search_operations_jobs(self,
                              preferred_locations: List[str],
-                             min_salary_lpa: int = 9,
-                             max_experience_years: int = 2) -> List[Dict]:
+                             min_salary_lpa: int = 8,
+                             max_experience_years: int = 3) -> List[Dict]:
         """
-        Complete job search pipeline for operations roles
+        Complete job search pipeline for program management roles in pharma/healthcare
         """
-        # Expanded search terms for operations roles
+        # Search terms for program management in pharma/metabolic health
         search_terms = [
-            "operations coordinator",
-            "operations executive", 
-            "program coordinator",
-            "business operations",
-            "operations associate",
-            "process coordinator",
-            "admin coordinator",
-            "operations analyst",
-            "management trainee operations"
+            "program manager pharma",
+            "program manager healthcare",
+            "project manager pharmaceutical",
+            "program coordinator healthcare",
+            "clinical program manager",
+            "medical affairs coordinator",
+            "program manager capability center",
+            "associate program manager",
+            "junior program manager",
+            "program analyst healthcare",
+            "project coordinator pharma",
+            "program manager metabolic",
+            "GCC program manager"
         ]
         
         all_jobs = []
@@ -283,7 +299,7 @@ class JobSearcherV2:
         if not jobs_df.empty:
             # Apply filters
             location_filtered = self.filter_by_location(jobs_df, preferred_locations)
-            experience_filtered = self.filter_by_experience(location_filtered, max_experience_years)
+            experience_filtered = self.filter_by_experience(location_filtered, min_years=3, max_years=max_experience_years)
             salary_filtered = self.filter_by_salary(experience_filtered, min_salary_lpa)
             
             # Convert to compatible format
@@ -310,13 +326,13 @@ class JobSearcherV2:
                     'company': job.get('company', ''),
                     'location': job.get('location', ''),
                     'salary': job.get('salary', 'Check job description'),
-                    'experience': 'Entry level',
+                    'experience': '3-5 years',
                     'url': job.get('url', ''),
                     'source': 'Indeed',
                     'description': job.get('description', ''),
                     'job_type': 'Full-time',  # Default
                     'scraped_date': job.get('scraped_date', datetime.now().isoformat()),
-                    'search_term': 'operations'
+                    'search_term': 'program management pharma'
                 }
                 
                 # Basic salary filtering
