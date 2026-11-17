@@ -34,11 +34,11 @@ jobs:
       - name: Run job search
         env:
           MIN_SALARY_LPA: 800000
-          EXPERIENCE_LEVEL: mid-level,3-5,4-6,3-7,associate,coordinator
-          JOB_TITLES: program manager,project manager,program coordinator,associate program manager,clinical program coordinator,medical affairs coordinator,pharma program manager,healthcare program manager,capability center program manager
+          EXPERIENCE_LEVEL: entry,associate,executive,coordinator,trainee,0-2,1-3,2-4,3-5,4-6
+          JOB_TITLES: pharma operations,pharmaceutical operations,clinical operations,drug safety,pharmacovigilance,regulatory affairs,clinical trial,medical affairs,healthcare operations
           LOCATION: India
           PREFERRED_LOCATIONS: bangalore,bengaluru,electronic city,whitefield
-          INDUSTRY_KEYWORDS: metabolic health,pharma,pharmaceutical,healthcare,life sciences,biotech,clinical,medical,capability center,capability centre,GCC
+          INDUSTRY_KEYWORDS: pharma,pharmaceutical,clinical,medical,healthcare,drug,biotech,life sciences,metabolic health,pharmacovigilance,regulatory affairs
           SEND_EMAIL: false  # Set to true if you want email notifications
         run: |
           python github_action_search_v2.py

@@ -210,7 +210,56 @@ class JobSearcherV2:
         filtered_df = jobs_df[jobs_df.apply(meets_salary_requirement, axis=1)]
         print(f"💰 Jobs meeting salary criteria: {len(filtered_df)}")
         return filtered_df
-    
+
+    def filter_by_industry(self, jobs_df: pd.DataFrame) -> pd.DataFrame:
+        """Filter jobs to include only pharma/healthcare and exclude IT jobs"""
+        if jobs_df.empty:
+            return jobs_df
+
+        # Keywords that indicate pharma/healthcare industry (MUST HAVE at least one)
+        pharma_keywords = [
+            'pharma', 'pharmaceutical', 'drug', 'medicine', 'clinical', 'medical',
+            'healthcare', 'health care', 'hospital', 'biotech', 'biotechnology',
+            'life science', 'metabolic', 'therapeutic', 'pharmacovigilance',
+            'regulatory', 'fda', 'cdsco', 'gmp', 'gcp', 'clinical trial',
+            'drug safety', 'medical device', 'oncology', 'diabetes',
+            'biopharma', 'cro', 'cmo', 'cdmo', 'nutraceutical',
+            'abbott', 'pfizer', 'novartis', 'sanofi', 'gsk', 'astrazeneca',
+            'cipla', 'sun pharma', 'dr reddy', 'lupin', 'biocon', 'zydus',
+            'mankind', 'torrent', 'alkem', 'glenmark', 'aurobindo'
+        ]
+
+        # Keywords that indicate IT jobs (EXCLUDE these)
+        it_keywords = [
+            'software', 'developer', 'programming', 'devops', 'cloud',
+            'aws', 'azure', 'kubernetes', 'frontend', 'backend',
+            'fullstack', 'java developer', 'python developer', 'javascript',
+            'react', 'angular', 'machine learning', 'data engineer',
+            'data scientist', 'web developer', 'mobile developer',
+            'infosys', 'tcs', 'wipro', 'cognizant', 'hcl tech', 'tech mahindra',
+            'accenture', 'capgemini'
+        ]
+
+        def is_pharma_job(row):
+            title = str(row.get('title', '')).lower()
+            company = str(row.get('company', '')).lower()
+            description = str(row.get('description', '')).lower()
+            combined_text = f"{title} {company} {description}"
+
+            # Exclude IT jobs
+            if any(keyword in combined_text for keyword in it_keywords):
+                pharma_matches = sum(1 for kw in pharma_keywords if kw in combined_text)
+                it_matches = sum(1 for kw in it_keywords if kw in combined_text)
+                if it_matches > pharma_matches:
+                    return False
+
+            # Must have at least one pharma/healthcare keyword
+            return any(keyword in combined_text for keyword in pharma_keywords)
+
+        filtered_df = jobs_df[jobs_df.apply(is_pharma_job, axis=1)]
+        print(f"🏥 Pharma/Healthcare jobs (excluding IT): {len(filtered_df)}")
+        return filtered_df
+
     def convert_to_job_dict_format(self, jobs_df: pd.DataFrame) -> List[Dict]:
         """Convert pandas DataFrame to list of job dictionaries for compatibility"""
         if jobs_df.empty:
@@ -264,25 +313,25 @@ class JobSearcherV2:
     def search_operations_jobs(self,
                              preferred_locations: List[str],
                              min_salary_lpa: int = 8,
-                             max_experience_years: int = 3) -> List[Dict]:
+                             max_experience_years: int = 7) -> List[Dict]:
         """
-        Complete job search pipeline for program management roles in pharma/healthcare
+        Complete job search pipeline for pharma/healthcare operations roles
         """
-        # Search terms for program management in pharma/metabolic health
+        # Search terms for pharma/healthcare operations (all levels)
         search_terms = [
-            "program manager pharma",
-            "program manager healthcare",
-            "project manager pharmaceutical",
-            "program coordinator healthcare",
-            "clinical program manager",
+            "pharma operations executive",
+            "pharmaceutical operations associate",
+            "clinical operations associate",
+            "drug safety associate",
+            "pharmacovigilance associate",
+            "regulatory affairs associate",
+            "clinical trial coordinator",
+            "pharma operations coordinator",
+            "clinical operations coordinator",
             "medical affairs coordinator",
-            "program manager capability center",
-            "associate program manager",
-            "junior program manager",
-            "program analyst healthcare",
-            "project coordinator pharma",
-            "program manager metabolic",
-            "GCC program manager"
+            "pharma operations manager",
+            "healthcare operations manager",
+            "pharma trainee"
         ]
         
         all_jobs = []
@@ -299,13 +348,14 @@ class JobSearcherV2:
         if not jobs_df.empty:
             # Apply filters
             location_filtered = self.filter_by_location(jobs_df, preferred_locations)
-            experience_filtered = self.filter_by_experience(location_filtered, min_years=3, max_years=max_experience_years)
+            industry_filtered = self.filter_by_industry(location_filtered)  # Pharma only, exclude IT
+            experience_filtered = self.filter_by_experience(industry_filtered, min_years=0, max_years=max_experience_years)
             salary_filtered = self.filter_by_salary(experience_filtered, min_salary_lpa)
-            
+
             # Convert to compatible format
             jobspy_jobs = self.convert_to_job_dict_format(salary_filtered)
             all_jobs.extend(jobspy_jobs)
-            print(f"✅ JobSpy found {len(jobspy_jobs)} matching jobs")
+            print(f"✅ JobSpy found {len(jobspy_jobs)} pharma/healthcare jobs")
         
         # 2. Search using custom Indeed scraper
         print("\n🔍 Searching with custom Indeed scraper...")
