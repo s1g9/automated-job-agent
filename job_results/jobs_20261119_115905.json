@@ -1,0 +1,45 @@
+{
+  "search_date": "2026-11-19T11:59:05.652576",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "FSP Clinical Trial Coordinator - eTMF",
+      "company": "Thermo Fisher Scientific",
+      "location": "Bengaluru East, Karnataka, India",
+      "salary": "Check job description",
+      "experience": "3-5 years",
+      "url": "https://www.linkedin.com/jobs/view/4488588826",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-19T11:57:43.171146",
+      "search_term": "clinical operations associate"
+    },
+    {
+      "title": "Health Clinical Services Associate",
+      "company": "Accenture in India",
+      "location": "Bengaluru, Karnataka, India",
+      "salary": "Check job description",
+      "experience": "3-5 years",
+      "url": "https://www.linkedin.com/jobs/view/4492219271",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-19T11:57:43.171146",
+      "search_term": "clinical operations associate"
+    },
+    {
+      "title": "Systems Specialist",
+      "company": "GSK",
+      "location": "Bengaluru, Karnataka, India",
+      "salary": "Check job description",
+      "experience": "3-5 years",
+      "url": "https://www.linkedin.com/jobs/view/4491320153",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-19T11:58:00.357403",
+      "search_term": "drug safety associate"
+    }
+  ]
+}
