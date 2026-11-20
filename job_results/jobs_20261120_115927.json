@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-11-20T11:59:27.715744",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Clinical Research Associate",
+      "company": "ClinoGenesis Research Institute",
+      "location": "Bengaluru, Karnataka, India",
+      "salary": "Check job description",
+      "experience": "3-5 years",
+      "url": "https://www.linkedin.com/jobs/view/4492570605",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-20T11:58:27.579517",
+      "search_term": "clinical operations associate"
+    },
+    {
+      "title": "Pharmacovigilance Associate",
+      "company": "LLRI - Learning Labb Research Institute",
+      "location": "Bengaluru, Karnataka, India",
+      "salary": "Check job description",
+      "experience": "3-5 years",
+      "url": "https://www.linkedin.com/jobs/view/4491128236",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-20T11:58:34.359019",
+      "search_term": "drug safety associate"
+    },
+    {
+      "title": "Sr. Associate Specialist, Product Surveillance, Digital",
+      "company": "GE HealthCare",
+      "location": "Bengaluru, Karnataka, India",
+      "salary": "Check job description",
+      "experience": "3-5 years",
+      "url": "https://www.linkedin.com/jobs/view/4492455635",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-20T11:58:34.359019",
+      "search_term": "drug safety associate"
+    },
+    {
+      "title": "Executive – Regulatory Affairs",
+      "company": "Qvents.In",
+      "location": "Bangalore Urban, Karnataka, India",
+      "salary": "Check job description",
+      "experience": "3-5 years",
+      "url": "https://www.linkedin.com/jobs/view/4490145317",
+      "source": "Linkedin",
+      "description": "",
+      "job_type": "None",
+      "scraped_date": "2026-11-20T11:58:52.483982",
+      "search_term": "regulatory affairs associate"
+    }
+  ]
+}
